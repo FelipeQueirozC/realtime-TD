@@ -1,0 +1,57 @@
+name: TD Realtime (Resgatar) -> JSON
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Skip outside market hours (BRT)
+        run: |
+          DOW=$(TZ=America/Sao_Paulo date +%u)   # 1=Mon..7=Sun
+          HM=$(TZ=America/Sao_Paulo date +%H%M)  # HHMM
+          if [ "$DOW" -ge 6 ]; then
+            echo "Weekend in BRT. Skipping."
+            exit 0
+          fi
+          if [ "$HM" -lt 0900 ] || [ "$HM" -gt 1815 ]; then
+            echo "Outside 09:00-18:15 BRT. Skipping."
+            exit 0
+          fi
+          echo "Within market hours. Continuing."
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run scraper
+        run: python scripts/td_resgatar_to_json.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "td-bot"
+          git config user.email "td-bot@users.noreply.github.com"
+          git add output/td_realtime_resgatar.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update TD realtime resgatar JSON"
+            git push
+          fi
