@@ -107,16 +107,12 @@ def parse_yield_percent_to_float(s: str) -> Optional[float]:
 def infer_ticker_base_from_titulo_investidor10(titulo: str) -> str:
     """
     Mapeia o nome do Investidor10 pro seu padrão de ticker base.
-
-    IMPORTANTE:
-    - Você pediu explicitamente: Tesouro Selic -> LTF
-    - Se você decidir usar LFT (mais comum), troque 'LTF' por 'LFT' abaixo.
     """
     t = (titulo or "").lower()
 
     # Selic
     if "selic" in t:
-        return "LTF"
+        return "LFT"
 
     # Prefixados
     if "prefixado" in t and "juros" in t:
