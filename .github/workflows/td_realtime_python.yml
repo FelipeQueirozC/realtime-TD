@@ -2,9 +2,7 @@ name: TD Realtime (Resgatar) -> JSON
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/15 * * * *"
-
+  
 permissions:
   contents: write
 
