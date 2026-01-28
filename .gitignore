@@ -1,0 +1,7 @@
+# Local automation (Windows server)
+run-td.ps1
+td-bot.log
+*.lock
+
+# (Opcional) se você tiver mais logs
+*.log
