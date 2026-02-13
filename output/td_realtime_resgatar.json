@@ -2,9 +2,9 @@
   "meta": {
     "source": "TD_Scrape",
     "source_url": "https://www.tesourodireto.com.br/documents/d/guest/rendimento-resgatar-csv?download=true",
-    "last_run_at": "2026-02-13T18:01:09-03:00",
-    "last_price_change_at": "2026-02-13T15:27:50.093-03:00",
-    "rows": 54
+    "last_run_at": "2026-02-13T18:31:09-03:00",
+    "last_price_change_at": "2026-02-13T18:00:05.47-03:00",
+    "rows": 55
   },
   "data": [
     {
@@ -181,6 +181,11 @@
       "Ticker": "NTN-B1 R+ 2084-12-15",
       "Preco_Atual": 178.33,
       "Yield_Atual": 7.09
+    },
+    {
+      "Ticker": "NTN-B1 E+ 2030-12-15",
+      "Preco_Atual": 3720.1,
+      "Yield_Atual": 7.89
     },
     {
       "Ticker": "NTN-B1 E+ 2031-12-15",
