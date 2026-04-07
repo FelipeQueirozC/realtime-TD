@@ -2,8 +2,8 @@
   "meta": {
     "source": "TD_Scrape",
     "source_url": "https://www.tesourodireto.com.br/documents/d/guest/rendimento-resgatar-csv?download=true",
-    "last_run_at": "2026-04-07T15:31:19-03:00",
-    "last_price_change_at": "2026-04-07T13:03:09.17-03:00",
+    "last_run_at": "2026-04-07T15:46:21-03:00",
+    "last_price_change_at": "2026-04-07T15:37:55.987-03:00",
     "rows": 60
   },
   "data": [
@@ -29,73 +29,73 @@
     },
     {
       "Ticker": "NTN-F 2027-01-01",
-      "Preco_Atual": 999.38,
-      "Yield_Atual": 14.18
-    },
-    {
-      "Ticker": "LTN 2027-01-01",
-      "Preco_Atual": 908.29,
-      "Yield_Atual": 14.08
-    },
-    {
-      "Ticker": "LTN 2028-01-01",
-      "Preco_Atual": 797.33,
-      "Yield_Atual": 14.02
-    },
-    {
-      "Ticker": "NTN-F 2029-01-01",
-      "Preco_Atual": 944.07,
-      "Yield_Atual": 14
-    },
-    {
-      "Ticker": "LTN 2029-01-01",
-      "Preco_Atual": 701.25,
-      "Yield_Atual": 13.99
-    },
-    {
-      "Ticker": "NTN-F 2031-01-01",
-      "Preco_Atual": 895.06,
+      "Preco_Atual": 999.44,
       "Yield_Atual": 14.17
     },
     {
+      "Ticker": "LTN 2027-01-01",
+      "Preco_Atual": 908.41,
+      "Yield_Atual": 14.06
+    },
+    {
+      "Ticker": "LTN 2028-01-01",
+      "Preco_Atual": 797.69,
+      "Yield_Atual": 13.99
+    },
+    {
+      "Ticker": "NTN-F 2029-01-01",
+      "Preco_Atual": 944.66,
+      "Yield_Atual": 13.97
+    },
+    {
+      "Ticker": "LTN 2029-01-01",
+      "Preco_Atual": 701.75,
+      "Yield_Atual": 13.96
+    },
+    {
+      "Ticker": "NTN-F 2031-01-01",
+      "Preco_Atual": 895.93,
+      "Yield_Atual": 14.14
+    },
+    {
       "Ticker": "LTN 2031-01-01",
-      "Preco_Atual": 538.74,
-      "Yield_Atual": 14.07
+      "Preco_Atual": 539.63,
+      "Yield_Atual": 14.03
     },
     {
       "Ticker": "LTN 2032-01-01",
-      "Preco_Atual": 470.17,
-      "Yield_Atual": 14.16
+      "Preco_Atual": 471.11,
+      "Yield_Atual": 14.12
     },
     {
       "Ticker": "NTN-F 2033-01-01",
-      "Preco_Atual": 858.87,
-      "Yield_Atual": 14.18
+      "Preco_Atual": 859.94,
+      "Yield_Atual": 14.15
     },
     {
       "Ticker": "NTN-F 2035-01-01",
-      "Preco_Atual": 831.79,
-      "Yield_Atual": 14.19
+      "Preco_Atual": 833.81,
+      "Yield_Atual": 14.14
     },
     {
       "Ticker": "NTN-F 2037-01-01",
-      "Preco_Atual": 810.45,
-      "Yield_Atual": 14.2
+      "Preco_Atual": 812.19,
+      "Yield_Atual": 14.16
     },
     {
       "Ticker": "NTN-B P 2026-08-15",
-      "Preco_Atual": 4520.6,
-      "Yield_Atual": 8.74
+      "Preco_Atual": 4520.75,
+      "Yield_Atual": 8.73
     },
     {
       "Ticker": "NTN-B 2026-08-15",
-      "Preco_Atual": 4654.24,
-      "Yield_Atual": 8.74
+      "Preco_Atual": 4654.4,
+      "Yield_Atual": 8.73
     },
     {
       "Ticker": "NTN-B P 2029-05-15",
-      "Preco_Atual": 3683.62,
-      "Yield_Atual": 7.94
+      "Preco_Atual": 3684.67,
+      "Yield_Atual": 7.93
     },
     {
       "Ticker": "NTN-B 2030-08-15",
@@ -104,23 +104,23 @@
     },
     {
       "Ticker": "NTN-B P 2032-08-15",
-      "Preco_Atual": 2889.7,
-      "Yield_Atual": 7.85
+      "Preco_Atual": 2891.39,
+      "Yield_Atual": 7.84
     },
     {
       "Ticker": "NTN-B 2032-08-15",
-      "Preco_Atual": 4291,
-      "Yield_Atual": 7.87
+      "Preco_Atual": 4293.09,
+      "Yield_Atual": 7.86
     },
     {
       "Ticker": "NTN-B P 2035-05-15",
-      "Preco_Atual": 2394.2,
-      "Yield_Atual": 7.64
+      "Preco_Atual": 2398.22,
+      "Yield_Atual": 7.62
     },
     {
       "Ticker": "NTN-B 2035-05-15",
-      "Preco_Atual": 4286.87,
-      "Yield_Atual": 7.69
+      "Preco_Atual": 4289.58,
+      "Yield_Atual": 7.68
     },
     {
       "Ticker": "NTN-B 2037-05-15",
@@ -129,33 +129,33 @@
     },
     {
       "Ticker": "NTN-B P 2040-08-15",
-      "Preco_Atual": 1685.76,
-      "Yield_Atual": 7.38
+      "Preco_Atual": 1692.5,
+      "Yield_Atual": 7.35
     },
     {
       "Ticker": "NTN-B 2040-08-15",
-      "Preco_Atual": 4124.4,
-      "Yield_Atual": 7.49
+      "Preco_Atual": 4131.6,
+      "Yield_Atual": 7.47
     },
     {
       "Ticker": "NTN-B P 2045-05-15",
-      "Preco_Atual": 1253.27,
-      "Yield_Atual": 7.16
+      "Preco_Atual": 1255.49,
+      "Yield_Atual": 7.15
     },
     {
       "Ticker": "NTN-B 2045-05-15",
-      "Preco_Atual": 4165.27,
-      "Yield_Atual": 7.34
+      "Preco_Atual": 4169.46,
+      "Yield_Atual": 7.33
     },
     {
       "Ticker": "NTN-B P 2050-08-15",
-      "Preco_Atual": 891.57,
-      "Yield_Atual": 7.07
+      "Preco_Atual": 893.59,
+      "Yield_Atual": 7.06
     },
     {
       "Ticker": "NTN-B 2050-08-15",
-      "Preco_Atual": 4057.41,
-      "Yield_Atual": 7.28
+      "Preco_Atual": 4062.01,
+      "Yield_Atual": 7.27
     },
     {
       "Ticker": "NTN-B 2055-05-15",
@@ -164,48 +164,48 @@
     },
     {
       "Ticker": "NTN-B 2060-08-15",
-      "Preco_Atual": 4000.31,
-      "Yield_Atual": 7.25
+      "Preco_Atual": 4005.33,
+      "Yield_Atual": 7.24
     },
     {
       "Ticker": "NTN-B1 R+ 2049-12-15",
-      "Preco_Atual": 1905.96,
-      "Yield_Atual": 7.42
+      "Preco_Atual": 1909.99,
+      "Yield_Atual": 7.4
     },
     {
       "Ticker": "NTN-B1 R+ 2054-12-15",
-      "Preco_Atual": 1370.49,
-      "Yield_Atual": 7.25
+      "Preco_Atual": 1372.59,
+      "Yield_Atual": 7.24
     },
     {
       "Ticker": "NTN-B1 R+ 2059-12-15",
-      "Preco_Atual": 991.22,
-      "Yield_Atual": 7.13
+      "Preco_Atual": 993.2,
+      "Yield_Atual": 7.12
     },
     {
       "Ticker": "NTN-B1 R+ 2064-12-15",
-      "Preco_Atual": 714.49,
-      "Yield_Atual": 7.07
+      "Preco_Atual": 716.25,
+      "Yield_Atual": 7.06
     },
     {
       "Ticker": "NTN-B1 R+ 2069-12-15",
-      "Preco_Atual": 511.8,
-      "Yield_Atual": 7.05
+      "Preco_Atual": 513.3,
+      "Yield_Atual": 7.04
     },
     {
       "Ticker": "NTN-B1 R+ 2074-12-15",
-      "Preco_Atual": 364.79,
-      "Yield_Atual": 7.05
+      "Preco_Atual": 366.03,
+      "Yield_Atual": 7.04
     },
     {
       "Ticker": "NTN-B1 R+ 2079-12-15",
-      "Preco_Atual": 259,
-      "Yield_Atual": 7.06
+      "Preco_Atual": 261,
+      "Yield_Atual": 7.04
     },
     {
       "Ticker": "NTN-B1 R+ 2084-12-15",
-      "Preco_Atual": 184.53,
-      "Yield_Atual": 7.06
+      "Preco_Atual": 186.13,
+      "Yield_Atual": 7.04
     },
     {
       "Ticker": "NTN-B1 E+ 2030-12-15",
@@ -219,8 +219,8 @@
     },
     {
       "Ticker": "NTN-B1 E+ 2032-12-15",
-      "Preco_Atual": 3402.63,
-      "Yield_Atual": 7.92
+      "Preco_Atual": 3403.91,
+      "Yield_Atual": 7.91
     },
     {
       "Ticker": "NTN-B1 E+ 2033-12-15",
@@ -234,18 +234,18 @@
     },
     {
       "Ticker": "NTN-B1 E+ 2035-12-15",
-      "Preco_Atual": 2736.59,
-      "Yield_Atual": 7.77
+      "Preco_Atual": 2738.38,
+      "Yield_Atual": 7.76
     },
     {
       "Ticker": "NTN-B1 E+ 2036-12-15",
-      "Preco_Atual": 2551.65,
-      "Yield_Atual": 7.71
+      "Preco_Atual": 2553.55,
+      "Yield_Atual": 7.7
     },
     {
       "Ticker": "NTN-B1 E+ 2037-12-15",
-      "Preco_Atual": 2384.02,
-      "Yield_Atual": 7.64
+      "Preco_Atual": 2386.02,
+      "Yield_Atual": 7.63
     },
     {
       "Ticker": "NTN-B1 E+ 2038-12-15",
@@ -254,53 +254,53 @@
     },
     {
       "Ticker": "NTN-B1 E+ 2039-12-15",
-      "Preco_Atual": 2085.63,
-      "Yield_Atual": 7.52
+      "Preco_Atual": 2087.76,
+      "Yield_Atual": 7.51
     },
     {
       "Ticker": "NTN-B1 E+ 2040-12-15",
-      "Preco_Atual": 1951.35,
-      "Yield_Atual": 7.47
+      "Preco_Atual": 1953.53,
+      "Yield_Atual": 7.46
     },
     {
       "Ticker": "NTN-B1 E+ 2041-12-15",
-      "Preco_Atual": 1827.34,
-      "Yield_Atual": 7.42
+      "Preco_Atual": 1829.55,
+      "Yield_Atual": 7.41
     },
     {
       "Ticker": "NTN-B1 E+ 2042-12-15",
-      "Preco_Atual": 1712.82,
-      "Yield_Atual": 7.37
+      "Preco_Atual": 1715.06,
+      "Yield_Atual": 7.36
     },
     {
       "Ticker": "NTN-B1 E+ 2043-12-15",
-      "Preco_Atual": 1604.59,
-      "Yield_Atual": 7.33
+      "Preco_Atual": 1609.08,
+      "Yield_Atual": 7.31
     },
     {
       "Ticker": "NTN-B1 E+ 2044-12-15",
-      "Preco_Atual": 1506.68,
-      "Yield_Atual": 7.28
+      "Preco_Atual": 1511.18,
+      "Yield_Atual": 7.26
     },
     {
       "Ticker": "NTN-B1 E+ 2045-12-15",
-      "Preco_Atual": 1413.92,
-      "Yield_Atual": 7.24
+      "Preco_Atual": 1418.41,
+      "Yield_Atual": 7.22
     },
     {
       "Ticker": "NTN-B1 E+ 2046-12-15",
-      "Preco_Atual": 1327.96,
-      "Yield_Atual": 7.2
+      "Preco_Atual": 1330.18,
+      "Yield_Atual": 7.19
     },
     {
       "Ticker": "NTN-B1 E+ 2047-12-15",
-      "Preco_Atual": 1246.04,
-      "Yield_Atual": 7.17
+      "Preco_Atual": 1248.25,
+      "Yield_Atual": 7.16
     },
     {
       "Ticker": "NTN-B1 E+ 2048-12-15",
-      "Preco_Atual": 1169.83,
-      "Yield_Atual": 7.14
+      "Preco_Atual": 1172.01,
+      "Yield_Atual": 7.13
     },
     {
       "Ticker": "NTN-C 2031-01-01",
