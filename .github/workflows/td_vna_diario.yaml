@@ -1,0 +1,34 @@
+name: Fetch VNA Diário (Anbima & Tesouro)
+
+on:
+  schedule:
+    - cron: "0 11 * * 1-5" # Roda às 11h UTC (08h BRT), Seg a Sex
+  workflow_dispatch: # Permite rodar manualmente clicando no botão no GitHub
+
+jobs:
+  update-vna:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Instalar Dependências e Playwright
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium
+
+      - name: Executar Script de VNA
+        run: python scripts/td_vna_diario.py
+
+      - name: Commit e Push dos Arquivos DB (JSON/XML)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/vna_atual.xml output/vna_diario.json output/vna_historico.json
+          git commit -m "chore: atualiza bases de dados do VNA" || echo "Sem mudanças para commitar"
+          git push
