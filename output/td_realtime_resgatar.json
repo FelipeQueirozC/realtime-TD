@@ -2,8 +2,8 @@
   "meta": {
     "source": "TD_Scrape",
     "source_url": "https://www.tesourodireto.com.br/documents/d/guest/rendimento-resgatar-csv?download=true",
-    "last_run_at": "2026-05-08T15:16:18-03:00",
-    "last_price_change_at": "2026-05-08T13:02:37.323-03:00",
+    "last_run_at": "2026-05-08T15:31:21-03:00",
+    "last_price_change_at": "2026-05-08T15:22:29.323-03:00",
     "rows": 60
   },
   "data": [
@@ -49,8 +49,8 @@
     },
     {
       "Ticker": "LTN 2029-01-01",
-      "Preco_Atual": 714.69,
-      "Yield_Atual": 13.64
+      "Preco_Atual": 714.52,
+      "Yield_Atual": 13.65
     },
     {
       "Ticker": "NTN-F 2031-01-01",
@@ -79,18 +79,18 @@
     },
     {
       "Ticker": "NTN-F 2037-01-01",
-      "Preco_Atual": 828.63,
-      "Yield_Atual": 13.99
+      "Preco_Atual": 829.08,
+      "Yield_Atual": 13.98
     },
     {
       "Ticker": "NTN-B P 2026-08-15",
-      "Preco_Atual": 4583.87,
-      "Yield_Atual": 9.6
+      "Preco_Atual": 4583.63,
+      "Yield_Atual": 9.62
     },
     {
       "Ticker": "NTN-B 2026-08-15",
-      "Preco_Atual": 4719.38,
-      "Yield_Atual": 9.6
+      "Preco_Atual": 4719.14,
+      "Yield_Atual": 9.62
     },
     {
       "Ticker": "NTN-B P 2029-05-15",
@@ -104,13 +104,13 @@
     },
     {
       "Ticker": "NTN-B P 2032-08-15",
-      "Preco_Atual": 2954.89,
-      "Yield_Atual": 7.73
+      "Preco_Atual": 2956.6,
+      "Yield_Atual": 7.72
     },
     {
       "Ticker": "NTN-B 2032-08-15",
-      "Preco_Atual": 4382.69,
-      "Yield_Atual": 7.75
+      "Preco_Atual": 4384.79,
+      "Yield_Atual": 7.74
     },
     {
       "Ticker": "NTN-B P 2035-05-15",
@@ -219,13 +219,13 @@
     },
     {
       "Ticker": "NTN-B1 E+ 2032-12-15",
-      "Preco_Atual": 3470.77,
-      "Yield_Atual": 7.8
+      "Preco_Atual": 3472.05,
+      "Yield_Atual": 7.79
     },
     {
       "Ticker": "NTN-B1 E+ 2033-12-15",
-      "Preco_Atual": 3227.03,
-      "Yield_Atual": 7.76
+      "Preco_Atual": 3228.52,
+      "Yield_Atual": 7.75
     },
     {
       "Ticker": "NTN-B1 E+ 2034-12-15",
