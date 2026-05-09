@@ -15,24 +15,24 @@ def get_current_vna_anbima():
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
         page.goto("https://data.anbima.com.br/titulos-publicos/valor-nominal-atualizado")
-        page.wait_for_selector("table")
+        page.wait_for_selector("text=NTN-B", timeout=15000)
         
+        page.wait_for_timeout(2000) # give table time to populate
         rows = page.locator("table tbody tr").all()
         dados_vna = None
         
         for row in rows:
-            if "NTN-B" in row.inner_text():
-                cols = row.locator("td").all_inner_texts()
-                vna_str = cols[1].strip()
-                data_ref_str = cols[2].strip() # Formato esperado: DD/MM/YYYY
+            cols = row.locator("td").all_inner_texts()
+            if len(cols) >= 2:
+                data_ref_str = cols[0].strip() # Data is now index 0
+                vna_str = cols[1].strip()      # VNA is index 1
                 
-                # Formatação dos dados
-                vna_float = float(vna_str.replace('.', '').replace(',', '.'))
-                # Converte DD/MM/YYYY para YYYY-MM-DD
-                data_iso = datetime.strptime(data_ref_str, "%d/%m/%Y").strftime("%Y-%m-%d")
-                
-                dados_vna = (data_iso, vna_float)
-                break
+                # Basic validation
+                if "/" in data_ref_str and "," in vna_str:
+                    vna_float = float(vna_str.replace('.', '').replace(',', '.'))
+                    data_iso = datetime.strptime(data_ref_str, "%d/%m/%Y").strftime("%Y-%m-%d")
+                    dados_vna = (data_iso, vna_float)
+                    break
                 
         browser.close()
         
