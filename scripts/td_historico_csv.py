@@ -106,6 +106,12 @@ def normalize_grouped_for_compare(grouped: List[Dict[str, Any]]) -> List[Dict[st
                 "PUVenda": round(float(it["PUVenda"]), 6),
             })
         items.sort(key=lambda x: x["Ticker"])
+
+        # ADD THIS: Preserve the is_scraped flag
+        norm_group = {"DataBase": d["DataBase"], "items": items}
+        if d.get("is_scraped"):
+            norm_group["is_scraped"] = True
+        
         norm.append({"DataBase": d["DataBase"], "items": items})
     norm.sort(key=lambda x: x["DataBase"])
     return norm
@@ -182,6 +188,20 @@ def main():
     if isinstance(prev, dict):
         prev_data = prev.get("data")
         prev_last_change = (prev.get("meta") or {}).get("last_data_change_at")
+
+    # ----- START OF NEW CODE: PRESERVE SCRAPED DATA -----
+    if isinstance(prev_data, list):
+        official_dbs = {d["DataBase"] for d in grouped}
+        for pd_row in prev_data:
+            # Se for scraped e ainda não existir no CSV oficial, mantém
+            if pd_row.get("is_scraped") and pd_row["DataBase"] not in official_dbs:
+                grouped.append(pd_row)
+        
+        # Re-ordena e corta o excesso se necessário
+        grouped.sort(key=lambda x: x["DataBase"])
+        if len(grouped) > n_dias:
+            grouped = grouped[-n_dias:]
+    # ----- END OF NEW CODE -----
 
     changed = True
     if isinstance(prev_data, list):
