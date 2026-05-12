@@ -32,6 +32,10 @@ func fetchLastMarketPricingDate(client *req.Client) (string, error) {
 
 	html := resp.String()
 
+	if ts, ok := extractLastUpdateText(html); ok {
+		return ts, nil
+	}
+
 	// A página renderiza o <p class="lastMarketPricingDate"></p> vazio e injeta o valor via JS:
 	//   var lastMarketPricingDate = `2026-01-28T13:02:01.613`
 	raw, ok := extractJSVar(html, "lastMarketPricingDate")
@@ -45,6 +49,24 @@ func fetchLastMarketPricingDate(client *req.Client) (string, error) {
 	}
 
 	return ts.Format(time.RFC3339Nano), nil
+}
+
+func extractLastUpdateText(html string) (string, bool) {
+	re := regexp.MustCompile(`(?is)(\d{2})/(\d{2})/(\d{4})\s*-\s*(\d{2})h(\d{2})\s*min`)
+	m := re.FindStringSubmatch(html)
+	if len(m) < 6 {
+		return "", false
+	}
+	loc, _ := time.LoadLocation("America/Sao_Paulo")
+	ts, err := time.ParseInLocation(
+		"02/01/2006 15:04",
+		fmt.Sprintf("%s/%s/%s %s:%s", m[1], m[2], m[3], m[4], m[5]),
+		loc,
+	)
+	if err != nil {
+		return "", false
+	}
+	return ts.Format(time.RFC3339), true
 }
 
 // Extrai: var <name> = `...` (ou "..." / '...')
