@@ -2,29 +2,29 @@
   "meta": {
     "source": "TD_Scrape",
     "source_url": "https://www.tesourodireto.com.br/documents/d/guest/rendimento-resgatar-csv?download=true",
-    "last_run_at": "2026-06-08T13:01:11-03:00",
-    "last_price_change_at": "2026-06-08T12:55:00-03:00",
+    "last_run_at": "2026-06-08T13:16:13-03:00",
+    "last_price_change_at": "2026-06-08T13:03:00-03:00",
     "rows": 5
   },
   "data": [
     {
       "Ticker": "LFT 2027-03-01",
-      "Preco_Atual": 19158.23,
+      "Preco_Atual": 19168.55,
       "Yield_Atual": 0.0193
     },
     {
       "Ticker": "LFT 2028-03-01",
-      "Preco_Atual": 19151.26,
+      "Preco_Atual": 19161.57,
       "Yield_Atual": 0.0292
     },
     {
       "Ticker": "LFT 2029-03-01",
-      "Preco_Atual": 19132.32,
+      "Preco_Atual": 19142.65,
       "Yield_Atual": 0.0551
     },
     {
       "Ticker": "LFT 2031-03-01",
-      "Preco_Atual": 19085.19,
+      "Preco_Atual": 19095.52,
       "Yield_Atual": 0.0843
     },
     {
