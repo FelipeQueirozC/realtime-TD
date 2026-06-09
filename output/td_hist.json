@@ -2,11 +2,11 @@
   "meta": {
     "source": "tesourotransparente.gov.br (CKAN)",
     "source_url": "https://www.tesourotransparente.gov.br/ckan/dataset/df56aa42-484a-4a59-8184-7676580c81e3/resource/796d2059-14e9-44e3-80c9-2d9e30b405c1/download/precotaxatesourodireto.csv",
-    "last_run_at": "2026-06-02T12:55:12-03:00",
-    "last_data_change_at": "2026-06-02T12:55:12-03:00",
+    "last_run_at": "2026-06-09T11:17:53-03:00",
+    "last_data_change_at": "2026-06-09T11:17:53-03:00",
     "unique_databases": 180,
     "range": {
-      "from": "2025-09-16",
+      "from": "2025-09-15",
       "to": "2026-06-08"
     }
   },
@@ -73051,867 +73051,851 @@
     },
     {
       "DataBase": "2026-06-02",
-      "is_scraped": true,
       "items": [
         {
           "TipoTitulo": "Tesouro Selic",
           "Vencimento": "2027-03-01",
           "Ticker": "LFT 2027-03-01",
-          "TaxaVenda": 0.019,
-          "PUVenda": 19137.87
+          "TaxaVenda": 0.02,
+          "PUVenda": 19127.57
         },
         {
           "TipoTitulo": "Tesouro Selic",
           "Vencimento": "2028-03-01",
           "Ticker": "LFT 2028-03-01",
-          "TaxaVenda": 0.0287,
-          "PUVenda": 19131
+          "TaxaVenda": 0.03,
+          "PUVenda": 19120.7
         },
         {
           "TipoTitulo": "Tesouro Selic",
           "Vencimento": "2029-03-01",
           "Ticker": "LFT 2029-03-01",
-          "TaxaVenda": 0.0554,
-          "PUVenda": 19111.72
+          "TaxaVenda": 0.06,
+          "PUVenda": 19101.42
         },
         {
           "TipoTitulo": "Tesouro Selic",
           "Vencimento": "2031-03-01",
           "Ticker": "LFT 2031-03-01",
-          "TaxaVenda": 0.0846,
-          "PUVenda": 19064.5
+          "TaxaVenda": 0.08,
+          "PUVenda": 19054.19
         },
         {
           "TipoTitulo": "Tesouro Prefixado",
           "Vencimento": "2027-01-01",
           "Ticker": "LTN 2027-01-01",
-          "TaxaVenda": 14.02,
-          "PUVenda": 926.8
+          "TaxaVenda": 14.04,
+          "PUVenda": 926.22
         },
         {
           "TipoTitulo": "Tesouro Prefixado",
           "Vencimento": "2028-01-01",
           "Ticker": "LTN 2028-01-01",
-          "TaxaVenda": 14.07,
-          "PUVenda": 812.7
+          "TaxaVenda": 14.08,
+          "PUVenda": 812.16
         },
         {
           "TipoTitulo": "Tesouro Prefixado",
           "Vencimento": "2029-01-01",
           "Ticker": "LTN 2029-01-01",
-          "TaxaVenda": 14.17,
-          "PUVenda": 712.35
+          "TaxaVenda": 14.15,
+          "PUVenda": 712.29
         },
         {
           "TipoTitulo": "Tesouro Prefixado",
           "Vencimento": "2031-01-01",
           "Ticker": "LTN 2031-01-01",
-          "TaxaVenda": 14.22,
-          "PUVenda": 546.27
+          "TaxaVenda": 14.18,
+          "PUVenda": 546.85
         },
         {
           "TipoTitulo": "Tesouro Prefixado",
           "Vencimento": "2032-01-01",
           "Ticker": "LTN 2032-01-01",
-          "TaxaVenda": 14.3,
-          "PUVenda": 476.41
+          "TaxaVenda": 14.27,
+          "PUVenda": 476.85
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2026-08-15",
           "Ticker": "NTN-B 2026-08-15",
-          "TaxaVenda": 10.23,
-          "PUVenda": 4761.8
+          "TaxaVenda": 10.18,
+          "PUVenda": 4759.65
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2030-08-15",
           "Ticker": "NTN-B 2030-08-15",
-          "TaxaVenda": 8.22,
-          "PUVenda": 4457.26
+          "TaxaVenda": 8.21,
+          "PUVenda": 4456.65
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2032-08-15",
           "Ticker": "NTN-B 2032-08-15",
-          "TaxaVenda": 8.08,
-          "PUVenda": 4353.77
+          "TaxaVenda": 8.09,
+          "PUVenda": 4349.68
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2035-05-15",
           "Ticker": "NTN-B 2035-05-15",
-          "TaxaVenda": 7.88,
-          "PUVenda": 4200.55
+          "TaxaVenda": 7.89,
+          "PUVenda": 4195.94
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2037-05-15",
           "Ticker": "NTN-B 2037-05-15",
-          "TaxaVenda": 7.73,
-          "PUVenda": 4168.53
+          "TaxaVenda": 7.75,
+          "PUVenda": 4160.5
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2040-08-15",
           "Ticker": "NTN-B 2040-08-15",
-          "TaxaVenda": 7.62,
-          "PUVenda": 4177.41
+          "TaxaVenda": 7.65,
+          "PUVenda": 4164.83
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2045-05-15",
           "Ticker": "NTN-B 2045-05-15",
-          "TaxaVenda": 7.52,
-          "PUVenda": 4050.2
+          "TaxaVenda": 7.55,
+          "PUVenda": 4036.08
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2050-08-15",
           "Ticker": "NTN-B 2050-08-15",
-          "TaxaVenda": 7.43,
-          "PUVenda": 4085.53
+          "TaxaVenda": 7.46,
+          "PUVenda": 4070.17
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2055-05-15",
           "Ticker": "NTN-B 2055-05-15",
-          "TaxaVenda": 7.4,
-          "PUVenda": 3986.66
+          "TaxaVenda": 7.43,
+          "PUVenda": 3970.64
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2060-08-15",
           "Ticker": "NTN-B 2060-08-15",
-          "TaxaVenda": 7.38,
-          "PUVenda": 4030.65
+          "TaxaVenda": 7.42,
+          "PUVenda": 4009.21
         },
         {
           "TipoTitulo": "Tesouro IPCA+",
           "Vencimento": "2026-08-15",
           "Ticker": "NTN-B P 2026-08-15",
-          "TaxaVenda": 10.23,
-          "PUVenda": 4625.07
+          "TaxaVenda": 10.18,
+          "PUVenda": 4622.98
         },
         {
           "TipoTitulo": "Tesouro IPCA+",
           "Vencimento": "2029-05-15",
           "Ticker": "NTN-B P 2029-05-15",
-          "TaxaVenda": 8.19,
-          "PUVenda": 3749.72
+          "TaxaVenda": 8.17,
+          "PUVenda": 3749.97
         },
         {
           "TipoTitulo": "Tesouro IPCA+",
           "Vencimento": "2032-08-15",
           "Ticker": "NTN-B P 2032-08-15",
-          "TaxaVenda": 8.06,
-          "PUVenda": 2925.8
+          "TaxaVenda": 8.07,
+          "PUVenda": 2922.77
         },
         {
           "TipoTitulo": "Tesouro IPCA+",
           "Vencimento": "2035-05-15",
           "Ticker": "NTN-B P 2035-05-15",
-          "TaxaVenda": 7.82,
-          "PUVenda": 2416.49
+          "TaxaVenda": 7.83,
+          "PUVenda": 2413.39
         },
         {
           "TipoTitulo": "Tesouro IPCA+",
           "Vencimento": "2040-08-15",
           "Ticker": "NTN-B P 2040-08-15",
-          "TaxaVenda": 7.49,
-          "PUVenda": 1701.51
+          "TaxaVenda": 7.53,
+          "PUVenda": 1691.83
         },
         {
           "TipoTitulo": "Tesouro IPCA+",
           "Vencimento": "2045-05-15",
           "Ticker": "NTN-B P 2045-05-15",
-          "TaxaVenda": 7.36,
-          "PUVenda": 1238.73
+          "TaxaVenda": 7.39,
+          "PUVenda": 1231.68
         },
         {
           "TipoTitulo": "Tesouro IPCA+",
           "Vencimento": "2050-08-15",
           "Ticker": "NTN-B P 2050-08-15",
-          "TaxaVenda": 7.21,
-          "PUVenda": 884.38
+          "TaxaVenda": 7.24,
+          "PUVenda": 878.06
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2030-12-15",
           "Ticker": "NTN-B1 E+ 2030-12-15",
           "TaxaVenda": 8.21,
-          "PUVenda": 3636.51
+          "PUVenda": 3634.79
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2031-12-15",
           "Ticker": "NTN-B1 E+ 2031-12-15",
           "TaxaVenda": 8.17,
-          "PUVenda": 3736.48
+          "PUVenda": 3734.71
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2032-12-15",
           "Ticker": "NTN-B1 E+ 2032-12-15",
           "TaxaVenda": 8.14,
-          "PUVenda": 3459.56
+          "PUVenda": 3457.93
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2033-12-15",
           "Ticker": "NTN-B1 E+ 2033-12-15",
           "TaxaVenda": 8.1,
-          "PUVenda": 3206.46
+          "PUVenda": 3204.95
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2034-12-15",
           "Ticker": "NTN-B1 E+ 2034-12-15",
           "TaxaVenda": 8.04,
-          "PUVenda": 2976.7
+          "PUVenda": 2975.31
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2035-12-15",
           "Ticker": "NTN-B1 E+ 2035-12-15",
-          "TaxaVenda": 7.96,
-          "PUVenda": 2770.14
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2036-12-15",
-          "Ticker": "NTN-B1 E+ 2036-12-15",
-          "TaxaVenda": 7.88,
-          "PUVenda": 2581.93
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2037-12-15",
-          "Ticker": "NTN-B1 E+ 2037-12-15",
-          "TaxaVenda": 7.79,
-          "PUVenda": 2412.24
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2038-12-15",
-          "Ticker": "NTN-B1 E+ 2038-12-15",
-          "TaxaVenda": 7.71,
-          "PUVenda": 2255.81
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2039-12-15",
-          "Ticker": "NTN-B1 E+ 2039-12-15",
-          "TaxaVenda": 7.64,
-          "PUVenda": 2110.48
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2040-12-15",
-          "Ticker": "NTN-B1 E+ 2040-12-15",
-          "TaxaVenda": 7.58,
-          "PUVenda": 1974.43
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2041-12-15",
-          "Ticker": "NTN-B1 E+ 2041-12-15",
-          "TaxaVenda": 7.54,
-          "PUVenda": 1844.72
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2042-12-15",
-          "Ticker": "NTN-B1 E+ 2042-12-15",
-          "TaxaVenda": 7.5,
-          "PUVenda": 1724.84
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2043-12-15",
-          "Ticker": "NTN-B1 E+ 2043-12-15",
-          "TaxaVenda": 7.46,
-          "PUVenda": 1613.8
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2044-12-15",
-          "Ticker": "NTN-B1 E+ 2044-12-15",
-          "TaxaVenda": 7.43,
-          "PUVenda": 1508.92
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2045-12-15",
-          "Ticker": "NTN-B1 E+ 2045-12-15",
-          "TaxaVenda": 7.4,
-          "PUVenda": 1411.76
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2046-12-15",
-          "Ticker": "NTN-B1 E+ 2046-12-15",
-          "TaxaVenda": 7.37,
-          "PUVenda": 1321.67
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2047-12-15",
-          "Ticker": "NTN-B1 E+ 2047-12-15",
-          "TaxaVenda": 7.35,
-          "PUVenda": 1235.96
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2048-12-15",
-          "Ticker": "NTN-B1 E+ 2048-12-15",
-          "TaxaVenda": 7.32,
-          "PUVenda": 1158.38
-        },
-        {
-          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-          "Vencimento": "2049-12-15",
-          "Ticker": "NTN-B1 R+ 2049-12-15",
-          "TaxaVenda": 7.58,
-          "PUVenda": 1919.65
-        },
-        {
-          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-          "Vencimento": "2054-12-15",
-          "Ticker": "NTN-B1 R+ 2054-12-15",
-          "TaxaVenda": 7.4,
-          "PUVenda": 1371.75
-        },
-        {
-          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-          "Vencimento": "2059-12-15",
-          "Ticker": "NTN-B1 R+ 2059-12-15",
-          "TaxaVenda": 7.28,
-          "PUVenda": 985.02
-        },
-        {
-          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-          "Vencimento": "2064-12-15",
-          "Ticker": "NTN-B1 R+ 2064-12-15",
-          "TaxaVenda": 7.2,
-          "PUVenda": 708.47
-        },
-        {
-          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-          "Vencimento": "2069-12-15",
-          "Ticker": "NTN-B1 R+ 2069-12-15",
-          "TaxaVenda": 7.15,
-          "PUVenda": 508.83
-        },
-        {
-          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-          "Vencimento": "2074-12-15",
-          "Ticker": "NTN-B1 R+ 2074-12-15",
-          "TaxaVenda": 7.13,
-          "PUVenda": 363.45
-        },
-        {
-          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-          "Vencimento": "2079-12-15",
-          "Ticker": "NTN-B1 R+ 2079-12-15",
-          "TaxaVenda": 7.13,
-          "PUVenda": 258.08
-        },
-        {
-          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-          "Vencimento": "2084-12-15",
-          "Ticker": "NTN-B1 R+ 2084-12-15",
-          "TaxaVenda": 7.13,
-          "PUVenda": 183.28
-        },
-        {
-          "TipoTitulo": "Tesouro IGPM+ com Juros Semestrais",
-          "Vencimento": "2031-01-01",
-          "Ticker": "NTN-C 2031-01-01",
-          "TaxaVenda": 8.2,
-          "PUVenda": 7952.66
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-          "Vencimento": "2027-01-01",
-          "Ticker": "NTN-F 2027-01-01",
-          "TaxaVenda": 14.14,
-          "PUVenda": 1019.77
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-          "Vencimento": "2029-01-01",
-          "Ticker": "NTN-F 2029-01-01",
-          "TaxaVenda": 14.18,
-          "PUVenda": 959.55
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-          "Vencimento": "2031-01-01",
-          "Ticker": "NTN-F 2031-01-01",
-          "TaxaVenda": 14.29,
-          "PUVenda": 909.74
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-          "Vencimento": "2033-01-01",
-          "Ticker": "NTN-F 2033-01-01",
-          "TaxaVenda": 14.36,
-          "PUVenda": 869.92
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-          "Vencimento": "2035-01-01",
-          "Ticker": "NTN-F 2035-01-01",
-          "TaxaVenda": 14.33,
-          "PUVenda": 843.04
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-          "Vencimento": "2037-01-01",
-          "Ticker": "NTN-F 2037-01-01",
-          "TaxaVenda": 14.34,
-          "PUVenda": 820.83
-        },
-        {
-          "TipoTitulo": "TD",
-          "Vencimento": "2036-01-01",
-          "Ticker": "TD 2036-01-01",
-          "TaxaVenda": 0,
-          "PUVenda": 10.57738
-        }
-      ]
-    },
-    {
-      "DataBase": "2026-06-03",
-      "is_scraped": true,
-      "items": [
-        {
-          "TipoTitulo": "Tesouro Selic",
-          "Vencimento": "2027-03-01",
-          "Ticker": "LFT 2027-03-01",
-          "TaxaVenda": 0.0191,
-          "PUVenda": 19148.09
-        },
-        {
-          "TipoTitulo": "Tesouro Selic",
-          "Vencimento": "2028-03-01",
-          "Ticker": "LFT 2028-03-01",
-          "TaxaVenda": 0.0287,
-          "PUVenda": 19141.23
-        },
-        {
-          "TipoTitulo": "Tesouro Selic",
-          "Vencimento": "2029-03-01",
-          "Ticker": "LFT 2029-03-01",
-          "TaxaVenda": 0.0553,
-          "PUVenda": 19122.03
-        },
-        {
-          "TipoTitulo": "Tesouro Selic",
-          "Vencimento": "2031-03-01",
-          "Ticker": "LFT 2031-03-01",
-          "TaxaVenda": 0.0845,
-          "PUVenda": 19074.84
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado",
-          "Vencimento": "2027-01-01",
-          "Ticker": "LTN 2027-01-01",
-          "TaxaVenda": 14.1,
-          "PUVenda": 926.91
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado",
-          "Vencimento": "2028-01-01",
-          "Ticker": "LTN 2028-01-01",
-          "TaxaVenda": 14.34,
-          "PUVenda": 810.11
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado",
-          "Vencimento": "2029-01-01",
-          "Ticker": "LTN 2029-01-01",
-          "TaxaVenda": 14.49,
-          "PUVenda": 707.64
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado",
-          "Vencimento": "2031-01-01",
-          "Ticker": "LTN 2031-01-01",
-          "TaxaVenda": 14.5,
-          "PUVenda": 540.51
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado",
-          "Vencimento": "2032-01-01",
-          "Ticker": "LTN 2032-01-01",
-          "TaxaVenda": 14.57,
-          "PUVenda": 470.46
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2026-08-15",
-          "Ticker": "NTN-B 2026-08-15",
-          "TaxaVenda": 10.48,
-          "PUVenda": 4762.99
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2030-08-15",
-          "Ticker": "NTN-B 2030-08-15",
-          "TaxaVenda": 8.46,
-          "PUVenda": 4424.09
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2032-08-15",
-          "Ticker": "NTN-B 2032-08-15",
-          "TaxaVenda": 8.29,
-          "PUVenda": 4313.69
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2035-05-15",
-          "Ticker": "NTN-B 2035-05-15",
-          "TaxaVenda": 8.06,
-          "PUVenda": 4155.37
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2037-05-15",
-          "Ticker": "NTN-B 2037-05-15",
-          "TaxaVenda": 7.9,
-          "PUVenda": 4119.39
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2040-08-15",
-          "Ticker": "NTN-B 2040-08-15",
-          "TaxaVenda": 7.73,
-          "PUVenda": 4140.95
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2045-05-15",
-          "Ticker": "NTN-B 2045-05-15",
-          "TaxaVenda": 7.61,
-          "PUVenda": 4015.93
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2050-08-15",
-          "Ticker": "NTN-B 2050-08-15",
-          "TaxaVenda": 7.52,
-          "PUVenda": 4047.57
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2055-05-15",
-          "Ticker": "NTN-B 2055-05-15",
-          "TaxaVenda": 7.48,
-          "PUVenda": 3951.24
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2060-08-15",
-          "Ticker": "NTN-B 2060-08-15",
-          "TaxaVenda": 7.45,
-          "PUVenda": 3998.78
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+",
-          "Vencimento": "2026-08-15",
-          "Ticker": "NTN-B P 2026-08-15",
-          "TaxaVenda": 10.48,
-          "PUVenda": 4626.22
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+",
-          "Vencimento": "2029-05-15",
-          "Ticker": "NTN-B P 2029-05-15",
-          "TaxaVenda": 8.42,
-          "PUVenda": 3728.93
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+",
-          "Vencimento": "2032-08-15",
-          "Ticker": "NTN-B P 2032-08-15",
-          "TaxaVenda": 8.27,
-          "PUVenda": 2892.83
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+",
-          "Vencimento": "2035-05-15",
-          "Ticker": "NTN-B P 2035-05-15",
-          "TaxaVenda": 7.99,
-          "PUVenda": 2384.38
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+",
-          "Vencimento": "2040-08-15",
-          "Ticker": "NTN-B P 2040-08-15",
-          "TaxaVenda": 7.56,
-          "PUVenda": 1686.97
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+",
-          "Vencimento": "2045-05-15",
-          "Ticker": "NTN-B P 2045-05-15",
-          "TaxaVenda": 7.41,
-          "PUVenda": 1228.66
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+",
-          "Vencimento": "2050-08-15",
-          "Ticker": "NTN-B P 2050-08-15",
-          "TaxaVenda": 7.26,
-          "PUVenda": 875.04
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2030-12-15",
-          "Ticker": "NTN-B1 E+ 2030-12-15",
-          "TaxaVenda": 8.43,
-          "PUVenda": 3623.15
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2031-12-15",
-          "Ticker": "NTN-B1 E+ 2031-12-15",
-          "TaxaVenda": 8.39,
-          "PUVenda": 3716.98
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2032-12-15",
-          "Ticker": "NTN-B1 E+ 2032-12-15",
-          "TaxaVenda": 8.36,
-          "PUVenda": 3434.55
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2033-12-15",
-          "Ticker": "NTN-B1 E+ 2033-12-15",
-          "TaxaVenda": 8.32,
-          "PUVenda": 3176.83
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2034-12-15",
-          "Ticker": "NTN-B1 E+ 2034-12-15",
-          "TaxaVenda": 8.25,
-          "PUVenda": 2944.8
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2035-12-15",
-          "Ticker": "NTN-B1 E+ 2035-12-15",
-          "TaxaVenda": 8.16,
-          "PUVenda": 2736.86
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2036-12-15",
-          "Ticker": "NTN-B1 E+ 2036-12-15",
-          "TaxaVenda": 8.07,
-          "PUVenda": 2548.02
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2037-12-15",
-          "Ticker": "NTN-B1 E+ 2037-12-15",
           "TaxaVenda": 7.97,
-          "PUVenda": 2378.31
+          "PUVenda": 2767.09
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2036-12-15",
+          "Ticker": "NTN-B1 E+ 2036-12-15",
+          "TaxaVenda": 7.89,
+          "PUVenda": 2578.86
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2037-12-15",
+          "Ticker": "NTN-B1 E+ 2037-12-15",
+          "TaxaVenda": 7.81,
+          "PUVenda": 2407.18
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2038-12-15",
           "Ticker": "NTN-B1 E+ 2038-12-15",
-          "TaxaVenda": 7.87,
-          "PUVenda": 2224.42
+          "TaxaVenda": 7.73,
+          "PUVenda": 2250.66
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2039-12-15",
           "Ticker": "NTN-B1 E+ 2039-12-15",
-          "TaxaVenda": 7.79,
-          "PUVenda": 2080.11
+          "TaxaVenda": 7.67,
+          "PUVenda": 2103.15
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2040-12-15",
           "Ticker": "NTN-B1 E+ 2040-12-15",
-          "TaxaVenda": 7.71,
-          "PUVenda": 1947.57
+          "TaxaVenda": 7.61,
+          "PUVenda": 1967.02
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2041-12-15",
           "Ticker": "NTN-B1 E+ 2041-12-15",
-          "TaxaVenda": 7.64,
-          "PUVenda": 1823.95
+          "TaxaVenda": 7.57,
+          "PUVenda": 1837.3
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2042-12-15",
           "Ticker": "NTN-B1 E+ 2042-12-15",
-          "TaxaVenda": 7.58,
-          "PUVenda": 1708.21
+          "TaxaVenda": 7.53,
+          "PUVenda": 1717.42
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2043-12-15",
           "Ticker": "NTN-B1 E+ 2043-12-15",
-          "TaxaVenda": 7.54,
-          "PUVenda": 1597.05
+          "TaxaVenda": 7.5,
+          "PUVenda": 1604.19
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2044-12-15",
           "Ticker": "NTN-B1 E+ 2044-12-15",
-          "TaxaVenda": 7.5,
-          "PUVenda": 1494.35
+          "TaxaVenda": 7.47,
+          "PUVenda": 1499.38
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2045-12-15",
           "Ticker": "NTN-B1 E+ 2045-12-15",
-          "TaxaVenda": 7.46,
-          "PUVenda": 1399.4
+          "TaxaVenda": 7.44,
+          "PUVenda": 1402.31
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2046-12-15",
           "Ticker": "NTN-B1 E+ 2046-12-15",
-          "TaxaVenda": 7.43,
-          "PUVenda": 1309.37
+          "TaxaVenda": 7.41,
+          "PUVenda": 1312.34
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2047-12-15",
           "Ticker": "NTN-B1 E+ 2047-12-15",
-          "TaxaVenda": 7.4,
-          "PUVenda": 1225.92
+          "TaxaVenda": 7.38,
+          "PUVenda": 1228.93
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2048-12-15",
           "Ticker": "NTN-B1 E+ 2048-12-15",
-          "TaxaVenda": 7.37,
-          "PUVenda": 1148.43
+          "TaxaVenda": 7.35,
+          "PUVenda": 1151.47
         },
         {
           "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
           "Vencimento": "2049-12-15",
           "Ticker": "NTN-B1 R+ 2049-12-15",
-          "TaxaVenda": 7.69,
-          "PUVenda": 1899.07
+          "TaxaVenda": 7.6,
+          "PUVenda": 1914.81
         },
         {
           "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
           "Vencimento": "2054-12-15",
           "Ticker": "NTN-B1 R+ 2054-12-15",
-          "TaxaVenda": 7.48,
-          "PUVenda": 1356.15
+          "TaxaVenda": 7.43,
+          "PUVenda": 1364.96
         },
         {
           "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
           "Vencimento": "2059-12-15",
           "Ticker": "NTN-B1 R+ 2059-12-15",
-          "TaxaVenda": 7.33,
-          "PUVenda": 975.93
+          "TaxaVenda": 7.32,
+          "PUVenda": 976.84
         },
         {
           "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
           "Vencimento": "2064-12-15",
           "Ticker": "NTN-B1 R+ 2064-12-15",
           "TaxaVenda": 7.24,
-          "PUVenda": 702
+          "PUVenda": 701.27
         },
         {
           "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
           "Vencimento": "2069-12-15",
           "Ticker": "NTN-B1 R+ 2069-12-15",
-          "TaxaVenda": 7.18,
-          "PUVenda": 504.71
+          "TaxaVenda": 7.2,
+          "PUVenda": 501.27
         },
         {
           "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
           "Vencimento": "2074-12-15",
           "Ticker": "NTN-B1 R+ 2074-12-15",
-          "TaxaVenda": 7.15,
-          "PUVenda": 361.22
+          "TaxaVenda": 7.19,
+          "PUVenda": 356.01
         },
         {
           "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
           "Vencimento": "2079-12-15",
           "Ticker": "NTN-B1 R+ 2079-12-15",
-          "TaxaVenda": 7.14,
-          "PUVenda": 257.24
+          "TaxaVenda": 7.19,
+          "PUVenda": 252.09
         },
         {
           "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
           "Vencimento": "2084-12-15",
           "Ticker": "NTN-B1 R+ 2084-12-15",
-          "TaxaVenda": 7.14,
-          "PUVenda": 182.59
+          "TaxaVenda": 7.19,
+          "PUVenda": 178.53
         },
         {
           "TipoTitulo": "Tesouro IGPM+ com Juros Semestrais",
           "Vencimento": "2031-01-01",
           "Ticker": "NTN-C 2031-01-01",
-          "TaxaVenda": 8.39,
-          "PUVenda": 7907.78
+          "TaxaVenda": 8.2,
+          "PUVenda": 7949.11
         },
         {
           "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
           "Vencimento": "2027-01-01",
           "Ticker": "NTN-F 2027-01-01",
-          "TaxaVenda": 14.24,
-          "PUVenda": 1019.81
+          "TaxaVenda": 14.13,
+          "PUVenda": 1019.28
         },
         {
           "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
           "Vencimento": "2029-01-01",
           "Ticker": "NTN-F 2029-01-01",
-          "TaxaVenda": 14.49,
-          "PUVenda": 954.32
+          "TaxaVenda": 14.16,
+          "PUVenda": 959.42
         },
         {
           "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
           "Vencimento": "2031-01-01",
           "Ticker": "NTN-F 2031-01-01",
-          "TaxaVenda": 14.58,
-          "PUVenda": 902.1
+          "TaxaVenda": 14.26,
+          "PUVenda": 910.1
         },
         {
           "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
           "Vencimento": "2033-01-01",
           "Ticker": "NTN-F 2033-01-01",
-          "TaxaVenda": 14.62,
-          "PUVenda": 861.4
+          "TaxaVenda": 14.33,
+          "PUVenda": 870.5
         },
         {
           "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
           "Vencimento": "2035-01-01",
           "Ticker": "NTN-F 2035-01-01",
-          "TaxaVenda": 14.58,
-          "PUVenda": 833.7
+          "TaxaVenda": 14.31,
+          "PUVenda": 843.39
         },
         {
           "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
           "Vencimento": "2037-01-01",
           "Ticker": "NTN-F 2037-01-01",
-          "TaxaVenda": 14.6,
-          "PUVenda": 810.29
+          "TaxaVenda": 14.33,
+          "PUVenda": 820.82
+        }
+      ]
+    },
+    {
+      "DataBase": "2026-06-03",
+      "items": [
+        {
+          "TipoTitulo": "Tesouro Selic",
+          "Vencimento": "2027-03-01",
+          "Ticker": "LFT 2027-03-01",
+          "TaxaVenda": 0.02,
+          "PUVenda": 19137.78
         },
         {
-          "TipoTitulo": "TD",
-          "Vencimento": "2036-01-01",
-          "Ticker": "TD 2036-01-01",
-          "TaxaVenda": 0,
-          "PUVenda": 10.583028
+          "TipoTitulo": "Tesouro Selic",
+          "Vencimento": "2028-03-01",
+          "Ticker": "LFT 2028-03-01",
+          "TaxaVenda": 0.03,
+          "PUVenda": 19130.93
+        },
+        {
+          "TipoTitulo": "Tesouro Selic",
+          "Vencimento": "2029-03-01",
+          "Ticker": "LFT 2029-03-01",
+          "TaxaVenda": 0.06,
+          "PUVenda": 19111.72
+        },
+        {
+          "TipoTitulo": "Tesouro Selic",
+          "Vencimento": "2031-03-01",
+          "Ticker": "LFT 2031-03-01",
+          "TaxaVenda": 0.08,
+          "PUVenda": 19064.52
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado",
+          "Vencimento": "2027-01-01",
+          "Ticker": "LTN 2027-01-01",
+          "TaxaVenda": 14.03,
+          "PUVenda": 926.75
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado",
+          "Vencimento": "2028-01-01",
+          "Ticker": "LTN 2028-01-01",
+          "TaxaVenda": 14.14,
+          "PUVenda": 811.91
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado",
+          "Vencimento": "2029-01-01",
+          "Ticker": "LTN 2029-01-01",
+          "TaxaVenda": 14.26,
+          "PUVenda": 710.91
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado",
+          "Vencimento": "2031-01-01",
+          "Ticker": "LTN 2031-01-01",
+          "TaxaVenda": 14.3,
+          "PUVenda": 544.53
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado",
+          "Vencimento": "2032-01-01",
+          "Ticker": "LTN 2032-01-01",
+          "TaxaVenda": 14.37,
+          "PUVenda": 474.79
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2026-08-15",
+          "Ticker": "NTN-B 2026-08-15",
+          "TaxaVenda": 10.38,
+          "PUVenda": 4760.47
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2030-08-15",
+          "Ticker": "NTN-B 2030-08-15",
+          "TaxaVenda": 8.29,
+          "PUVenda": 4446.71
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2032-08-15",
+          "Ticker": "NTN-B 2032-08-15",
+          "TaxaVenda": 8.14,
+          "PUVenda": 4341.48
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2035-05-15",
+          "Ticker": "NTN-B 2035-05-15",
+          "TaxaVenda": 7.94,
+          "PUVenda": 4184.54
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2037-05-15",
+          "Ticker": "NTN-B 2037-05-15",
+          "TaxaVenda": 7.79,
+          "PUVenda": 4150.18
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2040-08-15",
+          "Ticker": "NTN-B 2040-08-15",
+          "TaxaVenda": 7.67,
+          "PUVenda": 4159.61
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2045-05-15",
+          "Ticker": "NTN-B 2045-05-15",
+          "TaxaVenda": 7.56,
+          "PUVenda": 4033.81
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2050-08-15",
+          "Ticker": "NTN-B 2050-08-15",
+          "TaxaVenda": 7.47,
+          "PUVenda": 4067.48
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2055-05-15",
+          "Ticker": "NTN-B 2055-05-15",
+          "TaxaVenda": 7.44,
+          "PUVenda": 3967.68
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2060-08-15",
+          "Ticker": "NTN-B 2060-08-15",
+          "TaxaVenda": 7.43,
+          "PUVenda": 4006.1
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+",
+          "Vencimento": "2026-08-15",
+          "Ticker": "NTN-B P 2026-08-15",
+          "TaxaVenda": 10.38,
+          "PUVenda": 4623.77
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+",
+          "Vencimento": "2029-05-15",
+          "Ticker": "NTN-B P 2029-05-15",
+          "TaxaVenda": 8.25,
+          "PUVenda": 3743.65
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+",
+          "Vencimento": "2032-08-15",
+          "Ticker": "NTN-B P 2032-08-15",
+          "TaxaVenda": 8.12,
+          "PUVenda": 2915.81
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+",
+          "Vencimento": "2035-05-15",
+          "Ticker": "NTN-B P 2035-05-15",
+          "TaxaVenda": 7.88,
+          "PUVenda": 2404.57
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+",
+          "Vencimento": "2040-08-15",
+          "Ticker": "NTN-B P 2040-08-15",
+          "TaxaVenda": 7.53,
+          "PUVenda": 1692.59
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+",
+          "Vencimento": "2045-05-15",
+          "Ticker": "NTN-B P 2045-05-15",
+          "TaxaVenda": 7.38,
+          "PUVenda": 1234.39
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+",
+          "Vencimento": "2050-08-15",
+          "Ticker": "NTN-B P 2050-08-15",
+          "TaxaVenda": 7.24,
+          "PUVenda": 878.45
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2030-12-15",
+          "Ticker": "NTN-B1 E+ 2030-12-15",
+          "TaxaVenda": 8.28,
+          "PUVenda": 3631.51
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2031-12-15",
+          "Ticker": "NTN-B1 E+ 2031-12-15",
+          "TaxaVenda": 8.24,
+          "PUVenda": 3729.49
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2032-12-15",
+          "Ticker": "NTN-B1 E+ 2032-12-15",
+          "TaxaVenda": 8.21,
+          "PUVenda": 3450.87
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2033-12-15",
+          "Ticker": "NTN-B1 E+ 2033-12-15",
+          "TaxaVenda": 8.16,
+          "PUVenda": 3197.78
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2034-12-15",
+          "Ticker": "NTN-B1 E+ 2034-12-15",
+          "TaxaVenda": 8.1,
+          "PUVenda": 2967.01
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2035-12-15",
+          "Ticker": "NTN-B1 E+ 2035-12-15",
+          "TaxaVenda": 8.02,
+          "PUVenda": 2759.58
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2036-12-15",
+          "Ticker": "NTN-B1 E+ 2036-12-15",
+          "TaxaVenda": 7.94,
+          "PUVenda": 2570.65
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2037-12-15",
+          "Ticker": "NTN-B1 E+ 2037-12-15",
+          "TaxaVenda": 7.86,
+          "PUVenda": 2398.4
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2038-12-15",
+          "Ticker": "NTN-B1 E+ 2038-12-15",
+          "TaxaVenda": 7.77,
+          "PUVenda": 2243.46
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2039-12-15",
+          "Ticker": "NTN-B1 E+ 2039-12-15",
+          "TaxaVenda": 7.7,
+          "PUVenda": 2097.75
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2040-12-15",
+          "Ticker": "NTN-B1 E+ 2040-12-15",
+          "TaxaVenda": 7.64,
+          "PUVenda": 1961.43
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2041-12-15",
+          "Ticker": "NTN-B1 E+ 2041-12-15",
+          "TaxaVenda": 7.58,
+          "PUVenda": 1835.93
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2042-12-15",
+          "Ticker": "NTN-B1 E+ 2042-12-15",
+          "TaxaVenda": 7.54,
+          "PUVenda": 1715.98
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2043-12-15",
+          "Ticker": "NTN-B1 E+ 2043-12-15",
+          "TaxaVenda": 7.5,
+          "PUVenda": 1604.91
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2044-12-15",
+          "Ticker": "NTN-B1 E+ 2044-12-15",
+          "TaxaVenda": 7.47,
+          "PUVenda": 1500.05
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2045-12-15",
+          "Ticker": "NTN-B1 E+ 2045-12-15",
+          "TaxaVenda": 7.44,
+          "PUVenda": 1402.94
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2046-12-15",
+          "Ticker": "NTN-B1 E+ 2046-12-15",
+          "TaxaVenda": 7.41,
+          "PUVenda": 1312.93
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2047-12-15",
+          "Ticker": "NTN-B1 E+ 2047-12-15",
+          "TaxaVenda": 7.38,
+          "PUVenda": 1229.48
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2048-12-15",
+          "Ticker": "NTN-B1 E+ 2048-12-15",
+          "TaxaVenda": 7.35,
+          "PUVenda": 1151.98
+        },
+        {
+          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+          "Vencimento": "2049-12-15",
+          "Ticker": "NTN-B1 R+ 2049-12-15",
+          "TaxaVenda": 7.62,
+          "PUVenda": 1911.7
+        },
+        {
+          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+          "Vencimento": "2054-12-15",
+          "Ticker": "NTN-B1 R+ 2054-12-15",
+          "TaxaVenda": 7.44,
+          "PUVenda": 1363.51
+        },
+        {
+          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+          "Vencimento": "2059-12-15",
+          "Ticker": "NTN-B1 R+ 2059-12-15",
+          "TaxaVenda": 7.31,
+          "PUVenda": 979.2
+        },
+        {
+          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+          "Vencimento": "2064-12-15",
+          "Ticker": "NTN-B1 R+ 2064-12-15",
+          "TaxaVenda": 7.24,
+          "PUVenda": 701.58
+        },
+        {
+          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+          "Vencimento": "2069-12-15",
+          "Ticker": "NTN-B1 R+ 2069-12-15",
+          "TaxaVenda": 7.2,
+          "PUVenda": 501.48
+        },
+        {
+          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+          "Vencimento": "2074-12-15",
+          "Ticker": "NTN-B1 R+ 2074-12-15",
+          "TaxaVenda": 7.19,
+          "PUVenda": 356.16
+        },
+        {
+          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+          "Vencimento": "2079-12-15",
+          "Ticker": "NTN-B1 R+ 2079-12-15",
+          "TaxaVenda": 7.19,
+          "PUVenda": 252.2
+        },
+        {
+          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+          "Vencimento": "2084-12-15",
+          "Ticker": "NTN-B1 R+ 2084-12-15",
+          "TaxaVenda": 7.19,
+          "PUVenda": 178.6
+        },
+        {
+          "TipoTitulo": "Tesouro IGPM+ com Juros Semestrais",
+          "Vencimento": "2031-01-01",
+          "Ticker": "NTN-C 2031-01-01",
+          "TaxaVenda": 8.24,
+          "PUVenda": 7942.2
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+          "Vencimento": "2027-01-01",
+          "Ticker": "NTN-F 2027-01-01",
+          "TaxaVenda": 14.17,
+          "PUVenda": 1019.62
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+          "Vencimento": "2029-01-01",
+          "Ticker": "NTN-F 2029-01-01",
+          "TaxaVenda": 14.27,
+          "PUVenda": 957.88
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+          "Vencimento": "2031-01-01",
+          "Ticker": "NTN-F 2031-01-01",
+          "TaxaVenda": 14.37,
+          "PUVenda": 907.49
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+          "Vencimento": "2033-01-01",
+          "Ticker": "NTN-F 2033-01-01",
+          "TaxaVenda": 14.43,
+          "PUVenda": 867.48
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+          "Vencimento": "2035-01-01",
+          "Ticker": "NTN-F 2035-01-01",
+          "TaxaVenda": 14.39,
+          "PUVenda": 840.68
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+          "Vencimento": "2037-01-01",
+          "Ticker": "NTN-F 2037-01-01",
+          "TaxaVenda": 14.4,
+          "PUVenda": 818.28
         }
       ]
     },
@@ -74350,35 +74334,459 @@
     },
     {
       "DataBase": "2026-06-05",
-      "is_scraped": true,
       "items": [
         {
           "TipoTitulo": "Tesouro Selic",
           "Vencimento": "2027-03-01",
           "Ticker": "LFT 2027-03-01",
-          "TaxaVenda": 0.0191,
-          "PUVenda": 19158.33
+          "TaxaVenda": 0.02,
+          "PUVenda": 19148.02
         },
         {
           "TipoTitulo": "Tesouro Selic",
           "Vencimento": "2028-03-01",
           "Ticker": "LFT 2028-03-01",
-          "TaxaVenda": 0.0286,
-          "PUVenda": 19151.51
+          "TaxaVenda": 0.03,
+          "PUVenda": 19141.21
         },
         {
           "TipoTitulo": "Tesouro Selic",
           "Vencimento": "2029-03-01",
           "Ticker": "LFT 2029-03-01",
-          "TaxaVenda": 0.0552,
-          "PUVenda": 19132.33
+          "TaxaVenda": 0.06,
+          "PUVenda": 19122.02
         },
         {
           "TipoTitulo": "Tesouro Selic",
           "Vencimento": "2031-03-01",
           "Ticker": "LFT 2031-03-01",
-          "TaxaVenda": 0.0844,
-          "PUVenda": 19085.18
+          "TaxaVenda": 0.08,
+          "PUVenda": 19074.85
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado",
+          "Vencimento": "2027-01-01",
+          "Ticker": "LTN 2027-01-01",
+          "TaxaVenda": 14.03,
+          "PUVenda": 927.23
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado",
+          "Vencimento": "2028-01-01",
+          "Ticker": "LTN 2028-01-01",
+          "TaxaVenda": 14.28,
+          "PUVenda": 810.78
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado",
+          "Vencimento": "2029-01-01",
+          "Ticker": "LTN 2029-01-01",
+          "TaxaVenda": 14.44,
+          "PUVenda": 708.43
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado",
+          "Vencimento": "2031-01-01",
+          "Ticker": "LTN 2031-01-01",
+          "TaxaVenda": 14.46,
+          "PUVenda": 541.37
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado",
+          "Vencimento": "2032-01-01",
+          "Ticker": "LTN 2032-01-01",
+          "TaxaVenda": 14.53,
+          "PUVenda": 471.38
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2026-08-15",
+          "Ticker": "NTN-B 2026-08-15",
+          "TaxaVenda": 10.72,
+          "PUVenda": 4760.9
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2030-08-15",
+          "Ticker": "NTN-B 2030-08-15",
+          "TaxaVenda": 8.4,
+          "PUVenda": 4433.05
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2032-08-15",
+          "Ticker": "NTN-B 2032-08-15",
+          "TaxaVenda": 8.23,
+          "PUVenda": 4325.87
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2035-05-15",
+          "Ticker": "NTN-B 2035-05-15",
+          "TaxaVenda": 7.98,
+          "PUVenda": 4176.52
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2037-05-15",
+          "Ticker": "NTN-B 2037-05-15",
+          "TaxaVenda": 7.83,
+          "PUVenda": 4140.58
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2040-08-15",
+          "Ticker": "NTN-B 2040-08-15",
+          "TaxaVenda": 7.7,
+          "PUVenda": 4151.54
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2045-05-15",
+          "Ticker": "NTN-B 2045-05-15",
+          "TaxaVenda": 7.58,
+          "PUVenda": 4028.12
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2050-08-15",
+          "Ticker": "NTN-B 2050-08-15",
+          "TaxaVenda": 7.49,
+          "PUVenda": 4060.98
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2055-05-15",
+          "Ticker": "NTN-B 2055-05-15",
+          "TaxaVenda": 7.46,
+          "PUVenda": 3960.64
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
+          "Vencimento": "2060-08-15",
+          "Ticker": "NTN-B 2060-08-15",
+          "TaxaVenda": 7.45,
+          "PUVenda": 3998.78
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+",
+          "Vencimento": "2026-08-15",
+          "Ticker": "NTN-B P 2026-08-15",
+          "TaxaVenda": 10.72,
+          "PUVenda": 4624.19
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+",
+          "Vencimento": "2029-05-15",
+          "Ticker": "NTN-B P 2029-05-15",
+          "TaxaVenda": 8.35,
+          "PUVenda": 3735.96
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+",
+          "Vencimento": "2032-08-15",
+          "Ticker": "NTN-B P 2032-08-15",
+          "TaxaVenda": 8.21,
+          "PUVenda": 2902.73
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+",
+          "Vencimento": "2035-05-15",
+          "Ticker": "NTN-B P 2035-05-15",
+          "TaxaVenda": 7.91,
+          "PUVenda": 2400.13
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+",
+          "Vencimento": "2040-08-15",
+          "Ticker": "NTN-B P 2040-08-15",
+          "TaxaVenda": 7.55,
+          "PUVenda": 1689.18
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+",
+          "Vencimento": "2045-05-15",
+          "Ticker": "NTN-B P 2045-05-15",
+          "TaxaVenda": 7.39,
+          "PUVenda": 1232.98
+        },
+        {
+          "TipoTitulo": "Tesouro IPCA+",
+          "Vencimento": "2050-08-15",
+          "Ticker": "NTN-B P 2050-08-15",
+          "TaxaVenda": 7.24,
+          "PUVenda": 878.97
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2030-12-15",
+          "Ticker": "NTN-B1 E+ 2030-12-15",
+          "TaxaVenda": 8.38,
+          "PUVenda": 3626.7
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2031-12-15",
+          "Ticker": "NTN-B1 E+ 2031-12-15",
+          "TaxaVenda": 8.34,
+          "PUVenda": 3721.94
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2032-12-15",
+          "Ticker": "NTN-B1 E+ 2032-12-15",
+          "TaxaVenda": 8.31,
+          "PUVenda": 3440.7
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2033-12-15",
+          "Ticker": "NTN-B1 E+ 2033-12-15",
+          "TaxaVenda": 8.26,
+          "PUVenda": 3185.42
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2034-12-15",
+          "Ticker": "NTN-B1 E+ 2034-12-15",
+          "TaxaVenda": 8.18,
+          "PUVenda": 2956.01
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2035-12-15",
+          "Ticker": "NTN-B1 E+ 2035-12-15",
+          "TaxaVenda": 8.09,
+          "PUVenda": 2749.05
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2036-12-15",
+          "Ticker": "NTN-B1 E+ 2036-12-15",
+          "TaxaVenda": 7.99,
+          "PUVenda": 2562.91
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2037-12-15",
+          "Ticker": "NTN-B1 E+ 2037-12-15",
+          "TaxaVenda": 7.89,
+          "PUVenda": 2393.98
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2038-12-15",
+          "Ticker": "NTN-B1 E+ 2038-12-15",
+          "TaxaVenda": 7.8,
+          "PUVenda": 2238.7
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2039-12-15",
+          "Ticker": "NTN-B1 E+ 2039-12-15",
+          "TaxaVenda": 7.73,
+          "PUVenda": 2092.71
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2040-12-15",
+          "Ticker": "NTN-B1 E+ 2040-12-15",
+          "TaxaVenda": 7.66,
+          "PUVenda": 1958.31
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2041-12-15",
+          "Ticker": "NTN-B1 E+ 2041-12-15",
+          "TaxaVenda": 7.61,
+          "PUVenda": 1830.49
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2042-12-15",
+          "Ticker": "NTN-B1 E+ 2042-12-15",
+          "TaxaVenda": 7.56,
+          "PUVenda": 1712.61
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2043-12-15",
+          "Ticker": "NTN-B1 E+ 2043-12-15",
+          "TaxaVenda": 7.52,
+          "PUVenda": 1601.46
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2044-12-15",
+          "Ticker": "NTN-B1 E+ 2044-12-15",
+          "TaxaVenda": 7.48,
+          "PUVenda": 1498.76
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2045-12-15",
+          "Ticker": "NTN-B1 E+ 2045-12-15",
+          "TaxaVenda": 7.45,
+          "PUVenda": 1401.59
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2046-12-15",
+          "Ticker": "NTN-B1 E+ 2046-12-15",
+          "TaxaVenda": 7.41,
+          "PUVenda": 1313.72
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2047-12-15",
+          "Ticker": "NTN-B1 E+ 2047-12-15",
+          "TaxaVenda": 7.38,
+          "PUVenda": 1230.22
+        },
+        {
+          "TipoTitulo": "Tesouro Educa+",
+          "Vencimento": "2048-12-15",
+          "Ticker": "NTN-B1 E+ 2048-12-15",
+          "TaxaVenda": 7.35,
+          "PUVenda": 1152.67
+        },
+        {
+          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+          "Vencimento": "2049-12-15",
+          "Ticker": "NTN-B1 R+ 2049-12-15",
+          "TaxaVenda": 7.65,
+          "PUVenda": 1906.94
+        },
+        {
+          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+          "Vencimento": "2054-12-15",
+          "Ticker": "NTN-B1 R+ 2054-12-15",
+          "TaxaVenda": 7.45,
+          "PUVenda": 1362.29
+        },
+        {
+          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+          "Vencimento": "2059-12-15",
+          "Ticker": "NTN-B1 R+ 2059-12-15",
+          "TaxaVenda": 7.32,
+          "PUVenda": 977.86
+        },
+        {
+          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+          "Vencimento": "2064-12-15",
+          "Ticker": "NTN-B1 R+ 2064-12-15",
+          "TaxaVenda": 7.25,
+          "PUVenda": 700.29
+        },
+        {
+          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+          "Vencimento": "2069-12-15",
+          "Ticker": "NTN-B1 R+ 2069-12-15",
+          "TaxaVenda": 7.21,
+          "PUVenda": 500.33
+        },
+        {
+          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+          "Vencimento": "2074-12-15",
+          "Ticker": "NTN-B1 R+ 2074-12-15",
+          "TaxaVenda": 7.2,
+          "PUVenda": 355.18
+        },
+        {
+          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+          "Vencimento": "2079-12-15",
+          "Ticker": "NTN-B1 R+ 2079-12-15",
+          "TaxaVenda": 7.2,
+          "PUVenda": 251.39
+        },
+        {
+          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
+          "Vencimento": "2084-12-15",
+          "Ticker": "NTN-B1 R+ 2084-12-15",
+          "TaxaVenda": 7.2,
+          "PUVenda": 177.95
+        },
+        {
+          "TipoTitulo": "Tesouro IGPM+ com Juros Semestrais",
+          "Vencimento": "2031-01-01",
+          "Ticker": "NTN-C 2031-01-01",
+          "TaxaVenda": 8.35,
+          "PUVenda": 7918.16
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+          "Vencimento": "2027-01-01",
+          "Ticker": "NTN-F 2027-01-01",
+          "TaxaVenda": 14.2,
+          "PUVenda": 1020.01
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+          "Vencimento": "2029-01-01",
+          "Ticker": "NTN-F 2029-01-01",
+          "TaxaVenda": 14.43,
+          "PUVenda": 955.42
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+          "Vencimento": "2031-01-01",
+          "Ticker": "NTN-F 2031-01-01",
+          "TaxaVenda": 14.53,
+          "PUVenda": 903.49
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+          "Vencimento": "2033-01-01",
+          "Ticker": "NTN-F 2033-01-01",
+          "TaxaVenda": 14.58,
+          "PUVenda": 862.77
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+          "Vencimento": "2035-01-01",
+          "Ticker": "NTN-F 2035-01-01",
+          "TaxaVenda": 14.56,
+          "PUVenda": 834.48
+        },
+        {
+          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
+          "Vencimento": "2037-01-01",
+          "Ticker": "NTN-F 2037-01-01",
+          "TaxaVenda": 14.58,
+          "PUVenda": 811.13
+        }
+      ]
+    },
+    {
+      "DataBase": "2026-06-08",
+      "items": [
+        {
+          "TipoTitulo": "Tesouro Selic",
+          "Vencimento": "2027-03-01",
+          "Ticker": "LFT 2027-03-01",
+          "TaxaVenda": 0.02,
+          "PUVenda": 19158.23
+        },
+        {
+          "TipoTitulo": "Tesouro Selic",
+          "Vencimento": "2028-03-01",
+          "Ticker": "LFT 2028-03-01",
+          "TaxaVenda": 0.03,
+          "PUVenda": 19151.26
+        },
+        {
+          "TipoTitulo": "Tesouro Selic",
+          "Vencimento": "2029-03-01",
+          "Ticker": "LFT 2029-03-01",
+          "TaxaVenda": 0.06,
+          "PUVenda": 19132.32
+        },
+        {
+          "TipoTitulo": "Tesouro Selic",
+          "Vencimento": "2031-03-01",
+          "Ticker": "LFT 2031-03-01",
+          "TaxaVenda": 0.08,
+          "PUVenda": 19085.19
         },
         {
           "TipoTitulo": "Tesouro Prefixado",
@@ -74391,344 +74799,344 @@
           "TipoTitulo": "Tesouro Prefixado",
           "Vencimento": "2028-01-01",
           "Ticker": "LTN 2028-01-01",
-          "TaxaVenda": 14.6,
-          "PUVenda": 807.66
+          "TaxaVenda": 14.63,
+          "PUVenda": 807.33
         },
         {
           "TipoTitulo": "Tesouro Prefixado",
           "Vencimento": "2029-01-01",
           "Ticker": "LTN 2029-01-01",
-          "TaxaVenda": 14.81,
-          "PUVenda": 703
+          "TaxaVenda": 14.84,
+          "PUVenda": 702.53
         },
         {
           "TipoTitulo": "Tesouro Prefixado",
           "Vencimento": "2031-01-01",
           "Ticker": "LTN 2031-01-01",
-          "TaxaVenda": 14.76,
-          "PUVenda": 535.26
+          "TaxaVenda": 14.79,
+          "PUVenda": 534.63
         },
         {
           "TipoTitulo": "Tesouro Prefixado",
           "Vencimento": "2032-01-01",
           "Ticker": "LTN 2032-01-01",
-          "TaxaVenda": 14.8,
-          "PUVenda": 465.52
+          "TaxaVenda": 14.82,
+          "PUVenda": 465.07
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2026-08-15",
           "Ticker": "NTN-B 2026-08-15",
-          "TaxaVenda": 10.81,
-          "PUVenda": 4764.35
+          "TaxaVenda": 10.83,
+          "PUVenda": 4764.18
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2030-08-15",
           "Ticker": "NTN-B 2030-08-15",
-          "TaxaVenda": 8.59,
-          "PUVenda": 4408.32
+          "TaxaVenda": 8.64,
+          "PUVenda": 4400.91
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2032-08-15",
           "Ticker": "NTN-B 2032-08-15",
-          "TaxaVenda": 8.38,
-          "PUVenda": 4298.95
+          "TaxaVenda": 8.43,
+          "PUVenda": 4288.89
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2035-05-15",
           "Ticker": "NTN-B 2035-05-15",
-          "TaxaVenda": 8.14,
-          "PUVenda": 4137.64
+          "TaxaVenda": 8.18,
+          "PUVenda": 4127.18
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2037-05-15",
           "Ticker": "NTN-B 2037-05-15",
-          "TaxaVenda": 7.96,
-          "PUVenda": 4104.57
+          "TaxaVenda": 8.03,
+          "PUVenda": 4083.65
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2040-08-15",
           "Ticker": "NTN-B 2040-08-15",
-          "TaxaVenda": 7.82,
-          "PUVenda": 4112.61
+          "TaxaVenda": 7.91,
+          "PUVenda": 4081.39
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2045-05-15",
           "Ticker": "NTN-B 2045-05-15",
-          "TaxaVenda": 7.7,
-          "PUVenda": 3982.78
+          "TaxaVenda": 7.77,
+          "PUVenda": 3954.91
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2050-08-15",
           "Ticker": "NTN-B 2050-08-15",
-          "TaxaVenda": 7.59,
-          "PUVenda": 4019.65
+          "TaxaVenda": 7.69,
+          "PUVenda": 3975.98
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2055-05-15",
           "Ticker": "NTN-B 2055-05-15",
-          "TaxaVenda": 7.56,
-          "PUVenda": 3917.02
+          "TaxaVenda": 7.66,
+          "PUVenda": 3871.25
         },
         {
           "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
           "Vencimento": "2060-08-15",
           "Ticker": "NTN-B 2060-08-15",
-          "TaxaVenda": 7.55,
-          "PUVenda": 3953.71
+          "TaxaVenda": 7.65,
+          "PUVenda": 3906.58
         },
         {
           "TipoTitulo": "Tesouro IPCA+",
           "Vencimento": "2026-08-15",
           "Ticker": "NTN-B P 2026-08-15",
-          "TaxaVenda": 10.81,
-          "PUVenda": 4627.55
+          "TaxaVenda": 10.83,
+          "PUVenda": 4627.38
         },
         {
           "TipoTitulo": "Tesouro IPCA+",
           "Vencimento": "2029-05-15",
           "Ticker": "NTN-B P 2029-05-15",
-          "TaxaVenda": 8.55,
-          "PUVenda": 3718.92
+          "TaxaVenda": 8.59,
+          "PUVenda": 3714.93
         },
         {
           "TipoTitulo": "Tesouro IPCA+",
           "Vencimento": "2032-08-15",
           "Ticker": "NTN-B P 2032-08-15",
-          "TaxaVenda": 8.35,
-          "PUVenda": 2882
+          "TaxaVenda": 8.4,
+          "PUVenda": 2873.82
         },
         {
           "TipoTitulo": "Tesouro IPCA+",
           "Vencimento": "2035-05-15",
           "Ticker": "NTN-B P 2035-05-15",
-          "TaxaVenda": 8.06,
-          "PUVenda": 2372.57
+          "TaxaVenda": 8.1,
+          "PUVenda": 2364.78
         },
         {
           "TipoTitulo": "Tesouro IPCA+",
           "Vencimento": "2040-08-15",
           "Ticker": "NTN-B P 2040-08-15",
-          "TaxaVenda": 7.66,
-          "PUVenda": 1666.27
+          "TaxaVenda": 7.76,
+          "PUVenda": 1644.57
         },
         {
           "TipoTitulo": "Tesouro IPCA+",
           "Vencimento": "2045-05-15",
           "Ticker": "NTN-B P 2045-05-15",
-          "TaxaVenda": 7.5,
-          "PUVenda": 1210.37
+          "TaxaVenda": 7.56,
+          "PUVenda": 1197.72
         },
         {
           "TipoTitulo": "Tesouro IPCA+",
           "Vencimento": "2050-08-15",
           "Ticker": "NTN-B P 2050-08-15",
-          "TaxaVenda": 7.31,
-          "PUVenda": 865.95
+          "TaxaVenda": 7.44,
+          "PUVenda": 841.1
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2030-12-15",
           "Ticker": "NTN-B1 E+ 2030-12-15",
-          "TaxaVenda": 8.56,
-          "PUVenda": 3616.86
+          "TaxaVenda": 8.61,
+          "PUVenda": 3613.33
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2031-12-15",
           "Ticker": "NTN-B1 E+ 2031-12-15",
-          "TaxaVenda": 8.52,
-          "PUVenda": 3707.15
+          "TaxaVenda": 8.57,
+          "PUVenda": 3702.24
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2032-12-15",
           "Ticker": "NTN-B1 E+ 2032-12-15",
-          "TaxaVenda": 8.49,
-          "PUVenda": 3421.38
+          "TaxaVenda": 8.54,
+          "PUVenda": 3415.28
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2033-12-15",
           "Ticker": "NTN-B1 E+ 2033-12-15",
-          "TaxaVenda": 8.43,
-          "PUVenda": 3163.71
+          "TaxaVenda": 8.49,
+          "PUVenda": 3155.2
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2034-12-15",
           "Ticker": "NTN-B1 E+ 2034-12-15",
-          "TaxaVenda": 8.35,
-          "PUVenda": 2931.23
+          "TaxaVenda": 8.41,
+          "PUVenda": 2921.73
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2035-12-15",
           "Ticker": "NTN-B1 E+ 2035-12-15",
-          "TaxaVenda": 8.25,
-          "PUVenda": 2723.44
+          "TaxaVenda": 8.3,
+          "PUVenda": 2714.82
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2036-12-15",
           "Ticker": "NTN-B1 E+ 2036-12-15",
-          "TaxaVenda": 8.14,
-          "PUVenda": 2537.09
+          "TaxaVenda": 8.2,
+          "PUVenda": 2526.05
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2037-12-15",
           "Ticker": "NTN-B1 E+ 2037-12-15",
-          "TaxaVenda": 8.04,
-          "PUVenda": 2366.56
+          "TaxaVenda": 8.1,
+          "PUVenda": 2354.95
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2038-12-15",
           "Ticker": "NTN-B1 E+ 2038-12-15",
-          "TaxaVenda": 7.94,
-          "PUVenda": 2211.98
+          "TaxaVenda": 8.0,
+          "PUVenda": 2199.91
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2039-12-15",
           "Ticker": "NTN-B1 E+ 2039-12-15",
-          "TaxaVenda": 7.85,
-          "PUVenda": 2069.21
+          "TaxaVenda": 7.92,
+          "PUVenda": 2054.71
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2040-12-15",
           "Ticker": "NTN-B1 E+ 2040-12-15",
-          "TaxaVenda": 7.78,
-          "PUVenda": 1934.15
+          "TaxaVenda": 7.86,
+          "PUVenda": 1917.24
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2041-12-15",
           "Ticker": "NTN-B1 E+ 2041-12-15",
-          "TaxaVenda": 7.72,
-          "PUVenda": 1808.04
+          "TaxaVenda": 7.81,
+          "PUVenda": 1788.76
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2042-12-15",
           "Ticker": "NTN-B1 E+ 2042-12-15",
-          "TaxaVenda": 7.67,
-          "PUVenda": 1689.88
+          "TaxaVenda": 7.76,
+          "PUVenda": 1670.46
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2043-12-15",
           "Ticker": "NTN-B1 E+ 2043-12-15",
-          "TaxaVenda": 7.62,
-          "PUVenda": 1580.75
+          "TaxaVenda": 7.72,
+          "PUVenda": 1559.13
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2044-12-15",
           "Ticker": "NTN-B1 E+ 2044-12-15",
-          "TaxaVenda": 7.59,
-          "PUVenda": 1475.82
+          "TaxaVenda": 7.67,
+          "PUVenda": 1458.57
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2045-12-15",
           "Ticker": "NTN-B1 E+ 2045-12-15",
-          "TaxaVenda": 7.55,
-          "PUVenda": 1380.89
+          "TaxaVenda": 7.63,
+          "PUVenda": 1363.73
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2046-12-15",
           "Ticker": "NTN-B1 E+ 2046-12-15",
-          "TaxaVenda": 7.52,
-          "PUVenda": 1290.97
+          "TaxaVenda": 7.6,
+          "PUVenda": 1273.98
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2047-12-15",
           "Ticker": "NTN-B1 E+ 2047-12-15",
-          "TaxaVenda": 7.48,
-          "PUVenda": 1209.8
+          "TaxaVenda": 7.56,
+          "PUVenda": 1192.99
         },
         {
           "TipoTitulo": "Tesouro Educa+",
           "Vencimento": "2048-12-15",
           "Ticker": "NTN-B1 E+ 2048-12-15",
-          "TaxaVenda": 7.45,
-          "PUVenda": 1132.48
+          "TaxaVenda": 7.53,
+          "PUVenda": 1115.92
         },
         {
           "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
           "Vencimento": "2049-12-15",
           "Ticker": "NTN-B1 R+ 2049-12-15",
-          "TaxaVenda": 7.77,
-          "PUVenda": 1884.91
+          "TaxaVenda": 7.85,
+          "PUVenda": 1869.46
         },
         {
           "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
           "Vencimento": "2054-12-15",
           "Ticker": "NTN-B1 R+ 2054-12-15",
-          "TaxaVenda": 7.55,
-          "PUVenda": 1343
+          "TaxaVenda": 7.64,
+          "PUVenda": 1325.01
         },
         {
           "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
           "Vencimento": "2059-12-15",
           "Ticker": "NTN-B1 R+ 2059-12-15",
-          "TaxaVenda": 7.41,
-          "PUVenda": 961.4
+          "TaxaVenda": 7.51,
+          "PUVenda": 942.68
         },
         {
           "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
           "Vencimento": "2064-12-15",
           "Ticker": "NTN-B1 R+ 2064-12-15",
-          "TaxaVenda": 7.32,
-          "PUVenda": 688.97
+          "TaxaVenda": 7.43,
+          "PUVenda": 670.77
         },
         {
           "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
           "Vencimento": "2069-12-15",
           "Ticker": "NTN-B1 R+ 2069-12-15",
-          "TaxaVenda": 7.28,
-          "PUVenda": 490.64
+          "TaxaVenda": 7.4,
+          "PUVenda": 473.87
         },
         {
           "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
           "Vencimento": "2074-12-15",
           "Ticker": "NTN-B1 R+ 2074-12-15",
-          "TaxaVenda": 7.27,
-          "PUVenda": 347.17
+          "TaxaVenda": 7.39,
+          "PUVenda": 333.45
         },
         {
           "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
           "Vencimento": "2079-12-15",
           "Ticker": "NTN-B1 R+ 2079-12-15",
-          "TaxaVenda": 7.27,
-          "PUVenda": 244.92
+          "TaxaVenda": 7.39,
+          "PUVenda": 233.94
         },
         {
           "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
           "Vencimento": "2084-12-15",
           "Ticker": "NTN-B1 R+ 2084-12-15",
-          "TaxaVenda": 7.27,
-          "PUVenda": 172.81
+          "TaxaVenda": 7.39,
+          "PUVenda": 164.14
         },
         {
           "TipoTitulo": "Tesouro IGPM+ com Juros Semestrais",
           "Vencimento": "2031-01-01",
           "Ticker": "NTN-C 2031-01-01",
-          "TaxaVenda": 8.54,
-          "PUVenda": 7874.74
+          "TaxaVenda": 8.59,
+          "PUVenda": 7861.89
         },
         {
           "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
@@ -74741,476 +75149,36 @@
           "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
           "Vencimento": "2029-01-01",
           "Ticker": "NTN-F 2029-01-01",
-          "TaxaVenda": 14.8,
-          "PUVenda": 949.15
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-          "Vencimento": "2031-01-01",
-          "Ticker": "NTN-F 2031-01-01",
           "TaxaVenda": 14.83,
-          "PUVenda": 895.68
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-          "Vencimento": "2033-01-01",
-          "Ticker": "NTN-F 2033-01-01",
-          "TaxaVenda": 14.84,
-          "PUVenda": 854.38
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-          "Vencimento": "2035-01-01",
-          "Ticker": "NTN-F 2035-01-01",
-          "TaxaVenda": 14.81,
-          "PUVenda": 825.3
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-          "Vencimento": "2037-01-01",
-          "Ticker": "NTN-F 2037-01-01",
-          "TaxaVenda": 14.84,
-          "PUVenda": 800.8
-        },
-        {
-          "TipoTitulo": "TD",
-          "Vencimento": "2036-01-01",
-          "Ticker": "TD 2036-01-01",
-          "TaxaVenda": 0,
-          "PUVenda": 10.588679
-        }
-      ]
-    },
-    {
-      "DataBase": "2026-06-08",
-      "is_scraped": true,
-      "items": [
-        {
-          "TipoTitulo": "Tesouro Selic",
-          "Vencimento": "2027-03-01",
-          "Ticker": "LFT 2027-03-01",
-          "TaxaVenda": 0.0193,
-          "PUVenda": 19168.55
-        },
-        {
-          "TipoTitulo": "Tesouro Selic",
-          "Vencimento": "2028-03-01",
-          "Ticker": "LFT 2028-03-01",
-          "TaxaVenda": 0.0292,
-          "PUVenda": 19161.57
-        },
-        {
-          "TipoTitulo": "Tesouro Selic",
-          "Vencimento": "2029-03-01",
-          "Ticker": "LFT 2029-03-01",
-          "TaxaVenda": 0.0551,
-          "PUVenda": 19142.65
-        },
-        {
-          "TipoTitulo": "Tesouro Selic",
-          "Vencimento": "2031-03-01",
-          "Ticker": "LFT 2031-03-01",
-          "TaxaVenda": 0.0843,
-          "PUVenda": 19095.52
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado",
-          "Vencimento": "2027-01-01",
-          "Ticker": "LTN 2027-01-01",
-          "TaxaVenda": 14.28,
-          "PUVenda": 927.05
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado",
-          "Vencimento": "2028-01-01",
-          "Ticker": "LTN 2028-01-01",
-          "TaxaVenda": 14.86,
-          "PUVenda": 805.24
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado",
-          "Vencimento": "2029-01-01",
-          "Ticker": "LTN 2029-01-01",
-          "TaxaVenda": 15.04,
-          "PUVenda": 699.81
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado",
-          "Vencimento": "2031-01-01",
-          "Ticker": "LTN 2031-01-01",
-          "TaxaVenda": 14.96,
-          "PUVenda": 531.34
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado",
-          "Vencimento": "2032-01-01",
-          "Ticker": "LTN 2032-01-01",
-          "TaxaVenda": 14.98,
-          "PUVenda": 461.75
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2026-08-15",
-          "Ticker": "NTN-B 2026-08-15",
-          "TaxaVenda": 10.86,
-          "PUVenda": 4766.65
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2030-08-15",
-          "Ticker": "NTN-B 2030-08-15",
-          "TaxaVenda": 8.76,
-          "PUVenda": 4385.38
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2032-08-15",
-          "Ticker": "NTN-B 2032-08-15",
-          "TaxaVenda": 8.51,
-          "PUVenda": 4274.94
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2035-05-15",
-          "Ticker": "NTN-B 2035-05-15",
-          "TaxaVenda": 8.25,
-          "PUVenda": 4110.92
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2037-05-15",
-          "Ticker": "NTN-B 2037-05-15",
-          "TaxaVenda": 8.1,
-          "PUVenda": 4064.78
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2040-08-15",
-          "Ticker": "NTN-B 2040-08-15",
-          "TaxaVenda": 7.98,
-          "PUVenda": 4059.24
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2045-05-15",
-          "Ticker": "NTN-B 2045-05-15",
-          "TaxaVenda": 7.83,
-          "PUVenda": 3933.06
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2050-08-15",
-          "Ticker": "NTN-B 2050-08-15",
-          "TaxaVenda": 7.75,
-          "PUVenda": 3951.95
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2055-05-15",
-          "Ticker": "NTN-B 2055-05-15",
-          "TaxaVenda": 7.71,
-          "PUVenda": 3850.46
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+ com Juros Semestrais",
-          "Vencimento": "2060-08-15",
-          "Ticker": "NTN-B 2060-08-15",
-          "TaxaVenda": 7.72,
-          "PUVenda": 3875.93
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+",
-          "Vencimento": "2026-08-15",
-          "Ticker": "NTN-B P 2026-08-15",
-          "TaxaVenda": 10.86,
-          "PUVenda": 4629.77
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+",
-          "Vencimento": "2029-05-15",
-          "Ticker": "NTN-B P 2029-05-15",
-          "TaxaVenda": 8.71,
-          "PUVenda": 3704.82
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+",
-          "Vencimento": "2032-08-15",
-          "Ticker": "NTN-B P 2032-08-15",
-          "TaxaVenda": 8.48,
-          "PUVenda": 2862.18
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+",
-          "Vencimento": "2035-05-15",
-          "Ticker": "NTN-B P 2035-05-15",
-          "TaxaVenda": 8.17,
-          "PUVenda": 2352.34
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+",
-          "Vencimento": "2040-08-15",
-          "Ticker": "NTN-B P 2040-08-15",
-          "TaxaVenda": 7.83,
-          "PUVenda": 1630.32
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+",
-          "Vencimento": "2045-05-15",
-          "Ticker": "NTN-B P 2045-05-15",
-          "TaxaVenda": 7.61,
-          "PUVenda": 1187.83
-        },
-        {
-          "TipoTitulo": "Tesouro IPCA+",
-          "Vencimento": "2050-08-15",
-          "Ticker": "NTN-B P 2050-08-15",
-          "TaxaVenda": 7.49,
-          "PUVenda": 832.12
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2030-12-15",
-          "Ticker": "NTN-B1 E+ 2030-12-15",
-          "TaxaVenda": 8.72,
-          "PUVenda": 3607.38
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2031-12-15",
-          "Ticker": "NTN-B1 E+ 2031-12-15",
-          "TaxaVenda": 8.67,
-          "PUVenda": 3694.27
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2032-12-15",
-          "Ticker": "NTN-B1 E+ 2032-12-15",
-          "TaxaVenda": 8.63,
-          "PUVenda": 3406
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2033-12-15",
-          "Ticker": "NTN-B1 E+ 2033-12-15",
-          "TaxaVenda": 8.57,
-          "PUVenda": 3145.44
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2034-12-15",
-          "Ticker": "NTN-B1 E+ 2034-12-15",
-          "TaxaVenda": 8.48,
-          "PUVenda": 2912.11
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2035-12-15",
-          "Ticker": "NTN-B1 E+ 2035-12-15",
-          "TaxaVenda": 8.37,
-          "PUVenda": 2704.11
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2036-12-15",
-          "Ticker": "NTN-B1 E+ 2036-12-15",
-          "TaxaVenda": 8.26,
-          "PUVenda": 2516.27
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2037-12-15",
-          "Ticker": "NTN-B1 E+ 2037-12-15",
-          "TaxaVenda": 8.16,
-          "PUVenda": 2344.51
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2038-12-15",
-          "Ticker": "NTN-B1 E+ 2038-12-15",
-          "TaxaVenda": 8.07,
-          "PUVenda": 2186.94
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2039-12-15",
-          "Ticker": "NTN-B1 E+ 2039-12-15",
-          "TaxaVenda": 7.99,
-          "PUVenda": 2041.26
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2040-12-15",
-          "Ticker": "NTN-B1 E+ 2040-12-15",
-          "TaxaVenda": 7.93,
-          "PUVenda": 1903.46
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2041-12-15",
-          "Ticker": "NTN-B1 E+ 2041-12-15",
-          "TaxaVenda": 7.87,
-          "PUVenda": 1776.86
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2042-12-15",
-          "Ticker": "NTN-B1 E+ 2042-12-15",
-          "TaxaVenda": 7.82,
-          "PUVenda": 1658.41
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2043-12-15",
-          "Ticker": "NTN-B1 E+ 2043-12-15",
-          "TaxaVenda": 7.78,
-          "PUVenda": 1547.02
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2044-12-15",
-          "Ticker": "NTN-B1 E+ 2044-12-15",
-          "TaxaVenda": 7.73,
-          "PUVenda": 1446.42
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2045-12-15",
-          "Ticker": "NTN-B1 E+ 2045-12-15",
-          "TaxaVenda": 7.69,
-          "PUVenda": 1351.62
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2046-12-15",
-          "Ticker": "NTN-B1 E+ 2046-12-15",
-          "TaxaVenda": 7.65,
-          "PUVenda": 1264.05
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2047-12-15",
-          "Ticker": "NTN-B1 E+ 2047-12-15",
-          "TaxaVenda": 7.62,
-          "PUVenda": 1181.08
-        },
-        {
-          "TipoTitulo": "Tesouro Educa+",
-          "Vencimento": "2048-12-15",
-          "Ticker": "NTN-B1 E+ 2048-12-15",
-          "TaxaVenda": 7.58,
-          "PUVenda": 1106.19
-        },
-        {
-          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-          "Vencimento": "2049-12-15",
-          "Ticker": "NTN-B1 R+ 2049-12-15",
-          "TaxaVenda": 7.91,
-          "PUVenda": 1858.84
-        },
-        {
-          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-          "Vencimento": "2054-12-15",
-          "Ticker": "NTN-B1 R+ 2054-12-15",
-          "TaxaVenda": 7.7,
-          "PUVenda": 1313.77
-        },
-        {
-          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-          "Vencimento": "2059-12-15",
-          "Ticker": "NTN-B1 R+ 2059-12-15",
-          "TaxaVenda": 7.56,
-          "PUVenda": 933.89
-        },
-        {
-          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-          "Vencimento": "2064-12-15",
-          "Ticker": "NTN-B1 R+ 2064-12-15",
-          "TaxaVenda": 7.49,
-          "PUVenda": 661.36
-        },
-        {
-          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-          "Vencimento": "2069-12-15",
-          "Ticker": "NTN-B1 R+ 2069-12-15",
-          "TaxaVenda": 7.46,
-          "PUVenda": 465.92
-        },
-        {
-          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-          "Vencimento": "2074-12-15",
-          "Ticker": "NTN-B1 R+ 2074-12-15",
-          "TaxaVenda": 7.46,
-          "PUVenda": 325.85
-        },
-        {
-          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-          "Vencimento": "2079-12-15",
-          "Ticker": "NTN-B1 R+ 2079-12-15",
-          "TaxaVenda": 7.47,
-          "PUVenda": 227
-        },
-        {
-          "TipoTitulo": "Tesouro Renda+ Aposentadoria Extra",
-          "Vencimento": "2084-12-15",
-          "Ticker": "NTN-B1 R+ 2084-12-15",
-          "TaxaVenda": 7.47,
-          "PUVenda": 158.69
-        },
-        {
-          "TipoTitulo": "Tesouro IGPM+ com Juros Semestrais",
-          "Vencimento": "2031-01-01",
-          "Ticker": "NTN-C 2031-01-01",
-          "TaxaVenda": 8.69,
-          "PUVenda": 7839.92
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-          "Vencimento": "2027-01-01",
-          "Ticker": "NTN-F 2027-01-01",
-          "TaxaVenda": 14.45,
-          "PUVenda": 1019.87
-        },
-        {
-          "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
-          "Vencimento": "2029-01-01",
-          "Ticker": "NTN-F 2029-01-01",
-          "TaxaVenda": 15.03,
-          "PUVenda": 945.5
+          "PUVenda": 948.6
         },
         {
           "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
           "Vencimento": "2031-01-01",
           "Ticker": "NTN-F 2031-01-01",
-          "TaxaVenda": 15.03,
-          "PUVenda": 890.7
+          "TaxaVenda": 14.86,
+          "PUVenda": 894.85
         },
         {
           "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
           "Vencimento": "2033-01-01",
           "Ticker": "NTN-F 2033-01-01",
-          "TaxaVenda": 15,
-          "PUVenda": 849.47
+          "TaxaVenda": 14.86,
+          "PUVenda": 853.7
         },
         {
           "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
           "Vencimento": "2035-01-01",
           "Ticker": "NTN-F 2035-01-01",
-          "TaxaVenda": 14.95,
-          "PUVenda": 820.43
+          "TaxaVenda": 14.83,
+          "PUVenda": 824.54
         },
         {
           "TipoTitulo": "Tesouro Prefixado com Juros Semestrais",
           "Vencimento": "2037-01-01",
           "Ticker": "NTN-F 2037-01-01",
-          "TaxaVenda": 14.95,
-          "PUVenda": 796.76
-        },
-        {
-          "TipoTitulo": "TD",
-          "Vencimento": "2036-01-01",
-          "Ticker": "TD 2036-01-01",
-          "TaxaVenda": 0,
-          "PUVenda": 10.594335
+          "TaxaVenda": 14.86,
+          "PUVenda": 799.99
         }
       ]
     }
